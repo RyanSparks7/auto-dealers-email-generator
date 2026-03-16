@@ -1,0 +1,711 @@
+score,city,state,total_actives,new_last_30d,new_last_90d,momentum_pct,top_rep,avg_deal_price,social_proof,call_angle
+208,Houston,Texas,86,4,8,4.7,haidee,161.0,Car World Enterprises LLC | TOP STAR AUTO SALES | SM Auto,3+ dealers joined this month — market is hot. Drop names of recent signups.
+157,Dallas,Texas,65,3,6,4.6,vanessa,160.0,makka auto sales | Preston Premier Auto LLC | Rayyan Autos,3+ dealers joined this month — market is hot. Drop names of recent signups.
+100,Sacramento,California,39,2,6,5.1,adam.c,186.0,M&S Auto Group | Specialty Motorsports | Auto World Of Sacramento,Strong existing cluster (39 actives) + recent activity. Use cluster as proof.
+88,Orlando,Florida,33,2,6,6.1,hazel,222.0,Orlando Max Motors | FLORIDA CARS CENTER | Orange County Auto Sales,Strong existing cluster (33 actives) + recent activity. Use cluster as proof.
+83,San Antonio,Texas,35,1,4,2.9,lisa,214.0,AMA MOTORS | Streamline Auto Center | Varez Autocredit LLC,Strong existing cluster (35 actives) + recent activity. Use cluster as proof.
+81,Phoenix,Arizona,34,1,4,2.9,alexa,173.0,Dynamite Auto Sales | Robles AUto Sales | LOCAL CAR DEALER LLC,Strong existing cluster (34 actives) + recent activity. Use cluster as proof.
+78,Tampa,Florida,30,2,4,6.7,lisa,209.0,New Tampa Auto | ONE EXOTICS Luxury Vehicles | Power House Automotive,Strong existing cluster (30 actives) + recent activity. Use cluster as proof.
+70,Fredericksburg,Virginia,26,2,4,7.7,alexa,223.0,EAG MOTORSPORTS LLC | Mortons Motorcycles | Signature Motor Inc,Strong existing cluster (26 actives) + recent activity. Use cluster as proof.
+64,Las Vegas,Nevada,23,2,4,8.7,bill,212.0,Solution One Auto | Carson Trailer Las Vegas | CARMATE,Strong existing cluster (23 actives) + recent activity. Use cluster as proof.
+58,Jacksonville,Florida,22,2,2,9.1,Claire,221.0,A Plus Auto Deals LLC | Auto Traders INC | Brightway auto sales,Strong existing cluster (22 actives) + recent activity. Use cluster as proof.
+55,Raleigh,North Carolina,16,3,4,18.8,mason,239.0,METRI MOTORS | CAR LAND AUTO TRADING | Import Performance,3+ dealers joined this month — market is hot. Drop names of recent signups.
+54,El Paso,Texas,26,0,1,0.0,hazel,237.0,U.S. CAR SALES | JS Motors | IDRIVE,Dominant market presence (26 actives). Every non-customer knows your customers.
+53,Richmond,Virginia,13,3,6,23.1,mason,240.0,"CAR-WAY LLC | Grace Auto Sales and Service Inc | Capital Motors, LLC",3+ dealers joined this month — market is hot. Drop names of recent signups.
+52,Oklahoma City,Oklahoma,17,2,4,11.8,amanda,181.0,Auto Place Credit | Ideal Car Solutions LLC | Wheels of Norman,Strong existing cluster (17 actives) + recent activity. Use cluster as proof.
+52,Columbus,Ohio,17,2,4,11.8,william,201.0,Twins Buick GMC | Capital City Auto Sales | Kellie auto sales,Strong existing cluster (17 actives) + recent activity. Use cluster as proof.
+50,Miami,Florida,17,2,3,11.8,adam.c,214.0,MOTORS TRUST INC | Truck and Van Outlet | selective motor cars,Strong existing cluster (17 actives) + recent activity. Use cluster as proof.
+50,Denver,Colorado,21,0,4,0.0,bill,185.0,Ariana Auto Sales LLC | Premier Rides | New Wave Auto Brokers & Sales,Dominant market presence (21 actives). Every non-customer knows your customers.
+48,Knoxville,Tennessee,22,0,2,0.0,hazel,179.0,Moto Now Inc | Rev Motors | Grayson BMW 6,Dominant market presence (22 actives). Every non-customer knows your customers.
+46,Virginia Beach,Virginia,15,2,3,13.3,heather,181.0,carmood | ATLAS MOTORS | Auto Union LLC,Strong existing cluster (15 actives) + recent activity. Use cluster as proof.
+46,Cleveland,Ohio,12,2,6,16.7,mark,193.0,unity motor hub | DRIVETREND | Patriot Auto,Strong existing cluster (12 actives) + recent activity. Use cluster as proof.
+43,Tulsa,Oklahoma,15,1,4,6.7,amanda,219.0,BIG WHEEL MOTORS | Big Mikes Auto Sales | Chargers auto Sales,Strong existing cluster (15 actives) + recent activity. Use cluster as proof.
+42,Mesa,Arizona,14,2,2,14.3,bill,228.0,Aeo Powersports | MOTO A2Z | Carz R Us LLC,Strong existing cluster (14 actives) + recent activity. Use cluster as proof.
+42,Kissimmee,Florida,6,4,5,66.7,amanda,199.0,Kissimmee MotorSports Inc. | Kissimmee MotorSports Inc. | Kissimmee MotorSports Inc.,3+ dealers joined this month — market is hot. Drop names of recent signups.
+40,San Jose,California,13,2,2,15.4,alexa,245.0,all usa motors | MoegreatCars | K Auto Center West,Strong existing cluster (13 actives) + recent activity. Use cluster as proof.
+40,Portland,Oregon,19,0,1,0.0,bill,183.0,Ty's Rides | Pacific Golf & Turf  Portland | AetheriumAutomotive LLC,Dominant market presence (19 actives). Every non-customer knows your customers.
+40,Fort Worth,Texas,20,0,0,0.0,bill,172.0,CASTILLO MASTER MOTORS | DFW AUTO AND SERVICES | NORTH TEXAS MARINE,Dominant market presence (20 actives). Every non-customer knows your customers.
+39,Fort Myers,Florida,9,3,3,33.3,amanda,188.0,North Trail RV | North Trail RV | North Trail RV,3+ dealers joined this month — market is hot. Drop names of recent signups.
+37,Chicago,Illinois,13,1,3,7.7,amanda,176.0,High Point Auto Sales | MAX MOTORS INC | Regional Auto Group,Strong existing cluster (13 actives) + recent activity. Use cluster as proof.
+37,Calgary,Alberta,15,1,1,6.7,bill,118.0,Bspace Automotive | Double L Motors | Red Mile Motors,Strong existing cluster (15 actives) + recent activity. Use cluster as proof.
+36,Arlington,Texas,18,0,0,0.0,william,202.0,The Kar Store | NESCO Group LLC | McAndrew Motors,Dominant market presence (18 actives). Every non-customer knows your customers.
+35,Barrie,Ontario,6,3,4,50.0,Meryem Bismi,172.0,Monaco Motorcars | SOURCE1 MOTORS INC | Car Central,3+ dealers joined this month — market is hot. Drop names of recent signups.
+32,Grand Prairie,Texas,15,0,1,0.0,nathalie,165.0,Roly's auto sales | DFW Motorcars | Dallas Motors Sport LLC,Dominant market presence (15 actives). Every non-customer knows your customers.
+32,Modesto,California,16,0,0,0.0,bill,159.0,Powersports of Modesto | janet' auto sales | Discount Cars & Trucks,Dominant market presence (16 actives). Every non-customer knows your customers.
+31,Colorado Springs,Colorado,5,3,3,60.0,rf005,239.0,DAS Trucks | Mountain View Motors Inc. | K2 Automotive Group,3+ dealers joined this month — market is hot. Drop names of recent signups.
+31,Fort Lauderdale,Florida,9,1,4,11.1,mason,200.0,M R UNION GROUP LLC | FAST TRACK MOTORS BUY HERE PAY HERE OF BROWARD LLC | FAST TRACK MOTORS BUY HERE PAY HERE OF BROWARD LLC,9 active dealers in area. Use as social proof in opener.
+31,Edmonton,Alberta,12,1,1,8.3,Claire,189.0,Family Motors | Cars and Credit Canada LTD | JEET AUTO SALES,Strong existing cluster (12 actives) + recent activity. Use cluster as proof.
+30,Springfield,Missouri,8,2,2,25.0,adam.c,236.0,417autoland.com | The Auto Specialists | May Motor Company,8 active dealers in area. Use as social proof in opener.
+30,Austin,Texas,14,0,1,0.0,athena,147.0,BESTWAY CARS | TJ's Cycle | Austinite Auto Sales,14 active dealers in area. Use as social proof in opener.
+30,Boise,Idaho,13,0,2,0.0,adam.c,199.0,"Sunset Motors, Inc. | USA WORK TRUCKS | Legacy Auto Sales",13 active dealers in area. Use as social proof in opener.
+30,Tucson,Arizona,14,0,1,0.0,adam.c,125.0,Carson Trailer Tucson | Sunwest Financial Services | MG Motors,14 active dealers in area. Use as social proof in opener.
+30,Ottawa,Ontario,14,0,1,0.0,ashley,126.0,The Truck Town | MTC AUTO SALES | Mtc Auto Sales,14 active dealers in area. Use as social proof in opener.
+30,Omaha,Nebraska,15,0,0,0.0,maria,211.0,L.A AUTO SALES | AUTOVALLEY | TJK AUTO LLC,Dominant market presence (15 actives). Every non-customer knows your customers.
+29,Monroe,North Carolina,8,1,4,12.5,rf002,203.0,Power On Auto | AUTO TRACK | DJS AUTO BROKERS,8 active dealers in area. Use as social proof in opener.
+29,Greensboro,North Carolina,10,1,2,10.0,rf007,231.0,U-Save Auto Sales | Andra Brown | SPEED AUTO MALL,Strong existing cluster (10 actives) + recent activity. Use cluster as proof.
+29,Mobile,Alabama,11,1,1,9.1,bill,208.0,Work Trux | NEXT CAR AUTOMOTIVE | CarBox,Strong existing cluster (11 actives) + recent activity. Use cluster as proof.
+29,Detroit,Michigan,8,1,4,12.5,john harris,180.0,Coolidge Hwy Motors | Bobby | HONEST AUTO SALES LLC,8 active dealers in area. Use as social proof in opener.
+29,Tacoma,Washington,11,1,1,9.1,amanda,176.0,AROMAX AUTO SALES | GT auto | Auto Outlet of Tacoma,Strong existing cluster (11 actives) + recent activity. Use cluster as proof.
+28,Toronto,Ontario,12,0,2,0.0,ashley,207.0,Kia Yorkdale | AUTO GALLERY | Groupe Carrier,12 active dealers in area. Use as social proof in opener.
+28,Surrey,British Columbia,13,0,1,0.0,hazel,130.0,NEXUS AUTO GROUP | Sapphire Motors | Inaaya Motors,13 active dealers in area. Use as social proof in opener.
+27,Chattanooga,Tennessee,7,1,4,14.3,adam.c,212.0,Auto source of chattanoga | CROCKETT POWERSPORTS | T&J Motors,7 active dealers in area. Use as social proof in opener.
+27,Scottsdale,Arizona,9,1,2,11.1,adam.c,215.0,Rockland Trailers | Cars By Helmand At Mercedes Benz of Scottsdale | Hubbard Auto Center,9 active dealers in area. Use as social proof in opener.
+27,Des Moines,Iowa,9,1,2,11.1,adam.c,231.0,Capitol City Powersports | Pre-Owned Autos of Des Moines | Tom's Auto Group/ChrisS,9 active dealers in area. Use as social proof in opener.
+27,Garland,Texas,10,1,1,10.0,heather,159.0,Dallasautos4less | AUTO CHOICE GARLAND | keith mccoy automotive llc,Strong existing cluster (10 actives) + recent activity. Use cluster as proof.
+26,Michigan Center,Michigan,6,2,2,33.3,hazel,199.0,Monster Motors Michigan | Monster Motors Michigan | Monster Motors Michigan,Fast growing (33.3% joined recently). Urgency play — market is moving.
+26,Manassas,Virginia,12,0,1,0.0,lexi,300.0,Vision Motors Inc | Sell My Car | Auto Group Inc.,12 active dealers in area. Use as social proof in opener.
+25,Nashville,Tennessee,8,1,2,12.5,adam.c,208.0,RIDE AND ROLL AUTO SALES AND SERVICE INC | City Car Auto INC | Tennessee Imports,8 active dealers in area. Use as social proof in opener.
+25,Los Angeles,California,7,1,3,14.3,ashley,198.0,Autofest Inc | Top Ride Auto | LA AUTO CHOICE,7 active dealers in area. Use as social proof in opener.
+25,Spring,Texas,8,1,2,12.5,dave,180.0,TEXAS TRAILER SUPPLY SUPPLY | Crown Auto INC | SAFY AUTO SALES,8 active dealers in area. Use as social proof in opener.
+25,Idaho Falls,Idaho,7,1,3,14.3,Robert Anderson,188.0,Elite Auto Sales | Colonial Truck & Auto | Stone's Kia,7 active dealers in area. Use as social proof in opener.
+25,San Diego,California,8,1,2,12.5,hazel,136.0,Star Auto SD | West Coast Auto Finance | Zas Motors,8 active dealers in area. Use as social proof in opener.
+24,Indianapolis,Indiana,12,0,0,0.0,mason,205.0,MM's Cheap Auto Sales INC | Xtreme Motors Inc. | Members Auto Source,12 active dealers in area. Use as social proof in opener.
+23,Gainesville,Georgia,8,1,1,12.5,koby,240.0,diamond auto sales LLC | TEXAS TRUCKS AND AUTOS LLC | global motorsports,8 active dealers in area. Use as social proof in opener.
+23,Fresno,California,8,1,1,12.5,heather,206.0,2K MOTORS | larry's auto sales inc | Affordable Auto Center,8 active dealers in area. Use as social proof in opener.
+23,Norfolk,Virginia,8,1,1,12.5,amanda,185.0,Omega Auto Sales | Azalea Motors | GALAXY MOTORS VA LLC,8 active dealers in area. Use as social proof in opener.
+22,Kalispell,Montana,3,2,3,66.7,emily,199.0,C&R Trailer Sales | C&R Trailer Sales | Elite Auto Sales of Montana,Fast growing (66.7% joined recently). Urgency play — market is moving.
+22,Marietta,Georgia,10,0,1,0.0,Meryem Bismi,181.0,"Family A Automax | Georgia Auto Boutique | PRISTINE CARS & TRUCKS, INC.",10 active dealers in area. Use as social proof in opener.
+22,Bakersfield,California,10,0,1,0.0,adam.c,222.0,Carson Trailer Bakersfield | Bonander Trailer Sales & Services | GOLDEN VALLEY AUTOS Inc.,10 active dealers in area. Use as social proof in opener.
+22,Memphis,Tennessee,9,0,2,0.0,alexa,243.0,Smalls Automotive LLC | Carworld Memphis | Triumph Auto Sales,9 active dealers in area. Use as social proof in opener.
+22,Honolulu,Hawaii,11,0,0,0.0,Claire,151.0,Lucky Owl Auto Sales | City Auto Sales | Wolfes Works LLC,11 active dealers in area. Use as social proof in opener.
+21,Fontana,California,6,1,2,16.7,Austin Parker,237.0,Ramos Motors | Carcom Auto Group | Dons Auto Center,6 active dealers in area. Use as social proof in opener.
+21,Buford,Georgia,6,1,2,16.7,lisa,218.0,Prestige Motors Atlanta | global imports auto sales | Iconic Auto Group,6 active dealers in area. Use as social proof in opener.
+21,Winnipeg,Manitoba,6,1,2,16.7,emily,206.0,Waverley Mitsubishi | WSL Sport & Leisure | AAR-Autolist of Canada,6 active dealers in area. Use as social proof in opener.
+21,Akron,Ohio,6,1,2,16.7,mary,171.0,R&J Cars | Cedar Auto Group | 5 Star Auto,6 active dealers in area. Use as social proof in opener.
+20,Toledo,Ohio,3,2,2,66.7,alexa,232.0,1stprimeauto | TURBO AUTO DEALS LLC | Unlimited Auto Sales,Fast growing (66.7% joined recently). Urgency play — market is moving.
+20,Bloomington,California,3,2,2,66.7,ashley,232.0,Excellence Auto Sales Inc | I AUTO SALES INC | E and M auto sales,Fast growing (66.7% joined recently). Urgency play — market is moving.
+20,Newark,New Jersey,9,0,1,0.0,heather,287.0,route 21 auto mall | BUY HERE PAY HERE OF NEWARK | UNITED AUTO SALE LLC,9 active dealers in area. Use as social proof in opener.
+20,Amarillo,Texas,9,0,1,0.0,william,151.0,Top of Texas Motors | Fiesta Motors | Lone Star Powersports,9 active dealers in area. Use as social proof in opener.
+20,Lewisville,Texas,10,0,0,0.0,haidee,150.0,"H&H Motor Co. | All American Autohaus, Inc. | Ruiz Auto Sales LLC",10 active dealers in area. Use as social proof in opener.
+19,Lexington,Kentucky,5,1,2,20.0,raymond,244.0,Big Blue Autos | Prestige Motors | United Motorsports & RV,5 active dealers in area. Use as social proof in opener.
+19,Spokane Valley,Washington,5,1,2,20.0,rf007,242.0,SPOKANE VALLEY AUTO SALES | Valley Auto Liquidators | Pacific Golf & Turf Spokane,5 active dealers in area. Use as social proof in opener.
+19,Kannapolis,North Carolina,5,1,2,20.0,Ethan bradford,199.0,NORTH CANNON AUTO | Car Store Auto Sales | Car Store Sales And Service,5 active dealers in area. Use as social proof in opener.
+19,Hollywood,Florida,6,1,1,16.7,Claire,200.0,U Drive Motors LLC | 1DRIVE INC | Top Quality Auto Inc,6 active dealers in area. Use as social proof in opener.
+18,Rockville,Maryland,2,2,2,100.0,william,299.0,"Fleming's Ultimate Garage of Rockville, LLC. | Fleming's Ultimate Garage of Rockville, LLC.",Fast growing (100.0% joined recently). Urgency play — market is moving.
+18,Salem,Oregon,7,0,2,0.0,bill,230.0,SWIFT AUTO SALES | Edgewater Auto Center | Good Cars Good People,7 active dealers in area. Use as social proof in opener.
+18,Riverside,California,8,0,1,0.0,mason,208.0,Highgrove Autos | califox Used Cars | EFFORTLESS MOTORS,8 active dealers in area. Use as social proof in opener.
+18,Reno,Nevada,8,0,1,0.0,Meryem Bismi,212.0,"Sierra Classics & Imports, LLC | Vaughn Motor Sports | Auto Network",8 active dealers in area. Use as social proof in opener.
+18,Chesapeake,Virginia,7,0,2,0.0,amanda,140.0,VENTURE MOTOR SPORTS INC | tm auto | Liberty Motors,7 active dealers in area. Use as social proof in opener.
+18,Irvington,New Jersey,8,0,1,0.0,heather,285.0,Auto outlet of Irvington | general auto group | car evaluation,8 active dealers in area. Use as social proof in opener.
+18,Rancho Cordova,California,8,0,1,0.0,adam.c,202.0,OAKMONT AUTO SALES | Sacramento Luxury Motors | Elegant Auto Sales,8 active dealers in area. Use as social proof in opener.
+18,Laval,Quebec,8,0,1,0.0,hailey,156.0,BMW Ste-Agathe | AUTO VLAD | Automobiles MP Inc,8 active dealers in area. Use as social proof in opener.
+18,Ocala,Florida,8,0,1,0.0,adam.c,204.0,Driven Auto Sales | A to z RV Supercenter | Auto Mall,8 active dealers in area. Use as social proof in opener.
+17,Asheville,North Carolina,5,1,1,20.0,bill,239.0,Mountain Trailer Ventures | SKYLINE MOTORS LLC | CALE ROGERS AUTO SALES,5 active dealers in area. Use as social proof in opener.
+17,Youngstown,Ohio,5,1,1,20.0,Claire,224.0,STRUTHERS AUTO MALL LLC | Precision Automotive Group | Mill Creek Auto,5 active dealers in area. Use as social proof in opener.
+17,Glendale,Arizona,5,1,1,20.0,adam.c,209.0,"Quality Car Deals, LLC | Right auto and truck | Trucks and more llc",5 active dealers in area. Use as social proof in opener.
+17,Metairie,Louisiana,5,1,1,20.0,mark,202.0,LA Boat Dealer | Used Car Connect | Metairie Motors,5 active dealers in area. Use as social proof in opener.
+17,Stockton,California,5,1,1,20.0,adam.c,177.0,209 AUTOSALES LLC | Approved Auto Center | NOR CAL,5 active dealers in area. Use as social proof in opener.
+17,Spartanburg,South Carolina,4,1,2,25.0,rf002,274.0,Mountain Motors LLC | carolina auto connection | Sports & Imports Inc,4 active dealers in area. Use as social proof in opener.
+17,Alvin,Texas,3,1,3,33.3,Anthony,199.0,Ottos Auto World | OTTO 'S AUTO WORLD | OTTO 'S AUTO WORLD,Fast growing (33.3% joined recently). Urgency play — market is moving.
+17,Kent,Washington,4,1,2,25.0,william,174.0,Arrow Auto Group | AMH AUTO SALES | Imperium Auto Group NW,4 active dealers in area. Use as social proof in opener.
+17,Elizabeth,New Jersey,5,1,1,20.0,Austin Parker,211.0,BLUE STREAK MOTORS | King Tut Auto Group LLC | A&B Auto Group Inc,5 active dealers in area. Use as social proof in opener.
+17,Madera,California,5,1,1,20.0,adam.c,187.0,Top 1 Trailers LLC | Epic RV | Shaws Auto Sales,5 active dealers in area. Use as social proof in opener.
+17,Cedar Rapids,Iowa,5,1,1,20.0,emily,204.0,ATC RV Center | Fast Forward Cycles | Duffy's Classic Cars,5 active dealers in area. Use as social proof in opener.
+17,Alpharetta,Georgia,5,1,1,20.0,lindsey,189.0,STAR MOTORS LLC | The Crew Auto Sales inc | MJ AUTO BROKER,5 active dealers in area. Use as social proof in opener.
+16,Albuquerque,New Mexico,7,0,1,0.0,bill,285.0,CU Auto Sales | Five Star Auto Sales Inc | Garcia INFINITI,7 active dealers in area. Use as social proof in opener.
+16,Charlotte,North Carolina,7,0,1,0.0,bill,228.0,KID AUTO LLC | Big Tex Trailer World - Charlotte | Twins Motors,7 active dealers in area. Use as social proof in opener.
+16,London,Ontario,7,0,1,0.0,Anthony,229.0,Adventure RV Centre | Hiemstra Trailer Sales | Great Escape RV,7 active dealers in area. Use as social proof in opener.
+16,Tallahassee,Florida,6,0,2,0.0,rf005,249.0,first class auto inc | Drivenow | Trailer World Southeast,6 active dealers in area. Use as social proof in opener.
+16,Pompano Beach,Florida,7,0,1,0.0,lisa,188.0,Marciano Auto Group | Meta Wholesale Inc | Complete Marine,7 active dealers in area. Use as social proof in opener.
+16,Green Bay,Wisconsin,8,0,0,0.0,rf002,179.0,Neuville's Nearly New Auto & Truck | PAPERLAND MOTORS | Williams RV,8 active dealers in area. Use as social proof in opener.
+16,Hayward,California,8,0,0,0.0,ashley,205.0,"Brad Benson motorsports | COAST TO COAST MOTORS, INC. | autodeals",8 active dealers in area. Use as social proof in opener.
+16,Louisville,Kentucky,8,0,0,0.0,bill,236.0,4th Street Auto | Louisville Cars & Trucks | Harley Davidson Louisville,8 active dealers in area. Use as social proof in opener.
+16,Plano,Texas,8,0,0,0.0,haidee,127.0,All Star Auto | Auto Nova | Upgrade Auto Group,8 active dealers in area. Use as social proof in opener.
+15,Williston,Vermont,4,1,1,25.0,alexa,174.0,Md Motors | Adam Bufano | MD Motors,4 active dealers in area. Use as social proof in opener.
+15,Saint Louis,Missouri,4,1,1,25.0,travis cole,180.0,StarMotorsSTL | Gem Motors LLC | MIDWEST AUTOPLEX,4 active dealers in area. Use as social proof in opener.
+15,Kennewick,Washington,3,1,2,33.3,chris walker,266.0,Archibalds | Warner Auto and RV Center LLc | paradise auto sales,Fast growing (33.3% joined recently). Urgency play — market is moving.
+15,Lawrenceville,Georgia,3,1,2,33.3,kyla carter,232.0,Chrisdivinity usa auto inc | Pineda Ramirez Auto Sales LLC | Global Auto Gallery,Fast growing (33.3% joined recently). Urgency play — market is moving.
+15,Minneapolis,Minnesota,4,1,1,25.0,travis cole,158.0,Time Motor Sales | Metro Motor Sales | Eriks Auto LLC,4 active dealers in area. Use as social proof in opener.
+15,Hurricane,Utah,3,1,2,33.3,adam.c,152.0,Trailer Source | Trailer Source | Hurricane Car Lot,Fast growing (33.3% joined recently). Urgency play — market is moving.
+15,Fort Wayne,Indiana,4,1,1,25.0,william,222.0,Evans Toyota | Raptor Automotive | Auto Vault LLC,4 active dealers in area. Use as social proof in opener.
+15,Myrtle Beach,South Carolina,4,1,1,25.0,mason,199.0,Affordable Automobiles LLC | FIRST CLASS AUTO SALES LLC | The Car Store,4 active dealers in area. Use as social proof in opener.
+15,Fargo,North Dakota,3,1,2,33.3,bill,232.0,Wheels Powersports | Wallwork Truck Center,Fast growing (33.3% joined recently). Urgency play — market is moving.
+15,Arlington,Virginia,4,1,1,25.0,maria,178.0,Prime Motors LLC | Prime Motors LLC | Prime Motors LLC,4 active dealers in area. Use as social proof in opener.
+14,Englewood,Colorado,6,0,1,0.0,amanda,218.0,Royal Automotive | MILE HIGH AUTO SALES | Denver Auto Outlet,6 active dealers in area. Use as social proof in opener.
+14,Longwood,Florida,6,0,1,0.0,lisa,191.0,"Longwood Auto LLC | Joel's Auto Sales | BOOMER'S TRUCKS & SUV'S, LLC.",6 active dealers in area. Use as social proof in opener.
+14,Roanoke,Virginia,6,0,1,0.0,dave,181.0,Local Auto Sales LLC | A1 Car Sales LLC | Best Auto Sales INC,6 active dealers in area. Use as social proof in opener.
+14,Chantilly,Virginia,6,0,1,0.0,heather,229.0,Pm car Detailing | Fair Oaks Motors inc | Staver Auto Group,6 active dealers in area. Use as social proof in opener.
+14,Sioux Falls,South Dakota,7,0,0,0.0,bill,209.0,Northland Motorcars | Venerids Powerhouse | Vern Eide Motoplex,7 active dealers in area. Use as social proof in opener.
+14,Billings,Montana,7,0,0,0.0,bill,291.0,Cy-Corp Trailer | Dakota Deo Singh | Liberty Motors,7 active dealers in area. Use as social proof in opener.
+14,Atlanta,Georgia,7,0,0,0.0,bill,125.0,Motorvation Atlanta | El Compadre Trucks | Drew International,7 active dealers in area. Use as social proof in opener.
+14,Carrollton,Texas,7,0,0,0.0,amanda,249.0,Prosperity Motors Of Texas | Midway Cars Direct | PERFORMANCE AUTOS,7 active dealers in area. Use as social proof in opener.
+14,Snellville,Georgia,7,0,0,0.0,maria,252.0,DCKG Auto Group Llc | alpha car land | Alpha Car Land,7 active dealers in area. Use as social proof in opener.
+14,Anaheim,California,7,0,0,0.0,bill,135.0,"LYK Auto Sales | Auto Hub, Inc. | The Boat House of Anaheim Inc",7 active dealers in area. Use as social proof in opener.
+13,Hope Mills,North Carolina,2,1,2,50.0,adam.c,199.0,5W Trailers | 5 W Trailer NC,Fast growing (50.0% joined recently). Urgency play — market is moving.
+13,Okawville,Illinois,2,1,2,50.0,adam.c,199.0,5W Trailers | 5 W Trailer IL,Fast growing (50.0% joined recently). Urgency play — market is moving.
+13,Springville,Utah,3,1,1,33.3,adam.c,226.0,Trailer Source Springville | Century Marine - Utah | Trailer Source Springville,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Moses Lake,Washington,3,1,1,33.3,lisa,266.0,McFadden Family Motors | moses lake family auto | la auto rack llc,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Lehi,Utah,3,1,1,33.3,adam.c,192.0,Trailer Source | Hardman Car Company | Trailer Source,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Scarborough,Ontario,3,1,1,33.3,Claire,151.0,AAA Auto Sales | Auto Select | Frontline Motors Inc,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Medina,Ohio,3,1,1,33.3,Claire,162.0,RCD Sales | CENTRAL AUTO GROUP INC | Southern Select Auto Sales Inc.,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Middletown,Pennsylvania,3,1,1,33.3,alexa,229.0,JoyRide Auto Traders | Pine Manor Auto sales LLC | JoyRide Auto Traders,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Waukegan,Illinois,3,1,1,33.3,hazel,232.0,Driven Auto of Waukegan | Motorsport Auto Sales | Driven Auto Of Waukegan,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,New York,New York,3,1,1,33.3,bill,166.0,Buffalo Harley Davidson | South Shore CDJR Sales | Luxury Auto Group,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Bensalem,Pennsylvania,3,1,1,33.3,john harris,229.0,Malik Autohaus llc | PA AUTO MALL INC | AMERICAN AUTO BENSALEM INC,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Lagrange,Georgia,3,1,1,33.3,rf007,266.0,Interstate Motors | Maxwell Motors LLC | Nissan of LaGrange,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Suffolk,Virginia,3,1,1,33.3,travis cole,249.0,"Peninsula Auto Gallery | Suffolk Auto Exchange Center, Inc. | RydeTime Auto",Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Dunn,North Carolina,3,1,1,33.3,lisa,162.0,IDEAL AUTO SALES | Elite Auto Sales of Dunn | Barefoot's Auto Mart Inc,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Broken Arrow,Oklahoma,3,1,1,33.3,adam.c,206.0,Central Trailer Sales Inc | FRIENDSHIPAUTO | DDC Motors,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Pataskala,Ohio,3,1,1,33.3,heather,166.0,Bello Auto Sales llc | Nina Auto sales and service LLC | RCD RV Pataskala,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Lindon,Utah,3,1,1,33.3,adam.c,174.0,ProSteel Cutoms | Asays Autos Llc | Planet Auto Sales,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Thousand Oaks,California,2,1,2,50.0,rf005,249.0,Evans Auto Brokerage | Conejo Wholesale Auto & RV,Fast growing (50.0% joined recently). Urgency play — market is moving.
+13,Marion,Iowa,3,1,1,33.3,rf005,158.0,Houdek Auto Center | Houdek Auto Center | Hawkeye Auto,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,St. George,Utah,3,1,1,33.3,bill,232.0,Rimer's Trailer Sales | Marine United | Moto United,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Clarksville,Tennessee,3,1,1,33.3,adam.c,232.0,Wolff Auto Sales | Dabbs Midsouth Auto Sales | Trailer Mart Inc,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Covina,California,3,1,1,33.3,Anthony,199.0,Future Walker Cars | California Motor Cars | Rocket car co,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Carol Stream,Illinois,3,1,1,33.3,rf006,166.0,JANI MOTORS INC. | RELIABLE AUTOHAUS | OFF LEASE CARS INC,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Fayetteville,North Carolina,3,1,1,33.3,emily,266.0,Baker American Cycles | hazzi auto sales | Elite Auto Sales of Fayetteville,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Sumter,South Carolina,3,1,1,33.3,william,241.0,Pay Day Auto Sales | Redline Powersports | SUMTER AUTO SOURCE LLC,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Sherman,Texas,3,1,1,33.3,william,159.0,ReliaCars LLC | Gearhead Classics | Plano Auto Group,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Hasbrouck Heights,New Jersey,3,1,1,33.3,heather,204.0,Optimum Motors LLC | a1automall llc | NUM1BER AUTO SALES,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Millcreek,Utah,3,1,1,33.3,jacob,232.0,The Car Store Sales & Leasing | Motor Sportsland | FIND AUTO LLC,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Lynnwood,Washington,3,1,1,33.3,lexi,232.0,SILVER STAR AUTO SALES | Sports Cars International | Seattle Finest Motors,Fast growing (33.3% joined recently). Urgency play — market is moving.
+13,Sugar Land,Texas,3,1,1,33.3,william,174.0,L AND L MOTOR TRADE INC | Eden Cars LLC | auto mall llc,Fast growing (33.3% joined recently). Urgency play — market is moving.
+12,Hillsboro,Oregon,5,0,1,0.0,hazel,215.0,"D'Angelo, llc | Motosport Hillsboro | Stouffair Motors",5 active dealers in area. Use as social proof in opener.
+12,Summerville,South Carolina,4,0,2,0.0,mark,230.0,B&A Auto Sales and Service | PRESTIGE AUTOMALL LLC | Car Point LLC,4 active dealers in area. Use as social proof in opener.
+12,Tremonton,Utah,3,0,3,0.0,emily,199.0,C&R Auto & Trailer Sales | C&R Auto & Trailer Sales | C&R Auto & Trailer Sales,3 active dealers in area. Use as social proof in opener.
+12,Foley,Alabama,3,0,3,0.0,rf006,232.0,HIGHSPEED AUTO SALES INC | Triple B Autos | M & D Auto Sales,3 active dealers in area. Use as social proof in opener.
+12,Salt Lake City,Utah,5,0,1,0.0,rf005,199.0,THE GOOD CAR DEALER LLC | JJH AUTO SALES | Right Side Up Rv,5 active dealers in area. Use as social proof in opener.
+12,Savannah,Georgia,5,0,1,0.0,rf007,279.0,H&L Auto Sales 2 LLC | Savannah Motorsports | HWY 17 Auto Sales,5 active dealers in area. Use as social proof in opener.
+12,Grand Rapids,Michigan,5,0,1,0.0,mason,160.0,"Village Motorsports | Premier Automotive Sales, LLC | ELITE AUTO SALES OF MI, INC",5 active dealers in area. Use as social proof in opener.
+12,Spokane,Washington,5,0,1,0.0,lisa,242.0,Auction Direct Motorsports | V8 Auto Sales | Globe Motors,5 active dealers in area. Use as social proof in opener.
+12,Huntsville,Alabama,3,0,3,0.0,mason,139.0,O DATT Auto Sales LLC | O DATT Auto Sales LLC | O DATT AUTO SALES LLC,3 active dealers in area. Use as social proof in opener.
+12,Nampa,Idaho,4,0,2,0.0,adam.c,249.0,Dicks Kar Korral | Kildow Auto Sales | WESTERN MOUNTAIN AUTO SALES,4 active dealers in area. Use as social proof in opener.
+12,Cincinnati,Ohio,5,0,1,0.0,mason,174.0,UNITED MOTORSPORTS CINCINNATI | CinCity Harley-Davidson | MIRA AUTO SALES,5 active dealers in area. Use as social proof in opener.
+12,Puyallup,Washington,5,0,1,0.0,william,199.0,Venture Auto Sales 4 | Bonney Lake Used Cars | MAKEEN MOTORS LLC,5 active dealers in area. Use as social proof in opener.
+12,Roseville,California,5,0,1,0.0,rf007,150.0,Hayes Auto Sales | I-Deal Cars | Roseville Car Connection,5 active dealers in area. Use as social proof in opener.
+12,Paterson,New Jersey,6,0,0,0.0,heather,247.0,Global Cars Mall LLC | xcell motors llc | 3bautosalesllc,6 active dealers in area. Use as social proof in opener.
+12,Strathroy,Ontario,6,0,0,0.0,hazel,138.0,Bluewater Trailer Sales Ltd | Bluewater Trailer Sales Ltd | Bluewater Trailer Sales Ltd,6 active dealers in area. Use as social proof in opener.
+12,Mooresville,North Carolina,6,0,0,0.0,rf005,249.0,Motors America Inc | Fast Lane Motors | Edge Motors,6 active dealers in area. Use as social proof in opener.
+12,Anchorage,Alaska,6,0,0,0.0,Claire,231.0,Vito's Auto Sales | Anchorage Yamaha Inc | Lyberger's Car and Truck Sales,6 active dealers in area. Use as social proof in opener.
+12,Arizona,Arizona,6,0,0,0.0,jasmine,99.0,Sky Auto Sales | Ways Auto Sales | Blue Lane Auto Sales,6 active dealers in area. Use as social proof in opener.
+12,Baltimore,Maryland,6,0,0,0.0,wayne,179.0,Apex Motor Dealership | the in-housefinance | Pete's Cycle Co Baltimore,6 active dealers in area. Use as social proof in opener.
+12,Wichita,Kansas,6,0,0,0.0,bill,202.0,Helten Farm Repair and Sales | KANSAS AUTO SALES | carbuycco,6 active dealers in area. Use as social proof in opener.
+12,Winston Salem,North Carolina,6,0,0,0.0,mark,266.0,Triad Auto Mall INC | affordable motors inc | Better Way Automotive,6 active dealers in area. Use as social proof in opener.
+12,Manteca,California,6,0,0,0.0,emily,235.0,H&M EUROPEAN AUTO | USA AUTO DEALER INC | Sunset Motors,6 active dealers in area. Use as social proof in opener.
+12,Pittsburgh,Pennsylvania,6,0,0,0.0,vanessa,191.0,Ultra 1 Motors | qualitycarstore | Tri-State Trailer Sales Inc,6 active dealers in area. Use as social proof in opener.
+12,Vancouver,British Columbia,6,0,0,0.0,john,123.0,Docksteader Subaru | Vancouver Volkswagen | Aldric Lee Auto,6 active dealers in area. Use as social proof in opener.
+12,Langley,British Columbia,6,0,0,0.0,haidee,109.0,Vancouver Auto Center | Willowbrook Motors | Porsche Centre Langley,6 active dealers in area. Use as social proof in opener.
+11,Somerville,Massachusetts,2,1,1,50.0,mason,162.0,johns auto slaes inc | Broadway Auto Sales,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Mineola,Texas,2,1,1,50.0,sam davis,174.0,BOB SMITH AUTO SALES | Quick Sale Auto,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Leander,Texas,2,1,1,50.0,bill,212.0,Reid's Triple T | Hill Country Motors,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Murrieta,California,2,1,1,50.0,bill,199.0,Aeo Powersports | Affordable Imports Auto Sales,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Mesquite,Texas,2,1,1,50.0,Claire,249.0,Multi Autos USA | Precision Autos,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Brigham City,Utah,2,1,1,50.0,adam.c,189.0,Trailer Source Brigham City | Trailer Source,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Clearfield,Utah,2,1,1,50.0,adam.c,189.0,Trailer Source Clearfield | Trailer Source Clearfield,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Cedar City,Utah,2,1,1,50.0,adam.c,189.0,Trailer Source | Trailer Source,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Chippewa Falls,Wisconsin,2,1,1,50.0,adam.c,244.0,Zacho Sports Center Powersports | Zacho Sports Center,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Muskego,Wisconsin,2,1,1,50.0,bill,249.0,Wisco Carts | INDIAN OF METRO MILWAUKEE,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,North York,Ontario,2,1,1,50.0,Claire,150.0,AA Canada Inc | Autopluto,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Downers Grove,Illinois,2,1,1,50.0,lisa,249.0,Star Auto Works | Auto House Motors,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Lilburn,Georgia,2,1,1,50.0,heather,199.0,United Auto Gallery | Georgia Auto Gallery,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Piedmont,South Carolina,2,1,1,50.0,adam.c,299.0,Adventure Golf Carts | Foothills Motorsports,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,New Jersey,New Jersey,2,1,1,50.0,Austin Parker,199.0,Carhub | AI Autosales,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Odessa,Texas,2,1,1,50.0,heather,194.0,new deal used cars | ROBERSON AUTO,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Parsippany,New Jersey,2,1,1,50.0,rf002,212.0,Zoom Auto Group | Jan Auto sales llc,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Hamilton,Ohio,2,1,1,50.0,rf007,199.0,Paul's Auto Sales & Services | International Auto Outlet,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,South Windsor,Connecticut,2,1,1,50.0,bill,212.0,G&R Marine Unlimited | Fancy Rides LLC,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Manchester,Connecticut,2,1,1,50.0,hazel,199.0,DriveMax | MOTORCAR WEST,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Naperville,Illinois,2,1,1,50.0,lisa,299.0,Mr Fleet | BG motor cars,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,St. Louis,Michigan,2,1,1,50.0,rf007,299.0,"SEELEY AUTO SALES | Miller Auto Sales, Inc.",Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Port Moody,British Columbia,2,1,1,50.0,lisa,199.0,West Wood Honda | Burrell Auto Group,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Ladson,South Carolina,2,1,1,50.0,heather,249.0,South Carolina Automobile | American Biker,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Davie,Florida,2,1,1,50.0,Robert Anderson,299.0,Carsrtoysmiami llc | Coastal Auto & Truck sales,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Florence,Alabama,2,1,1,50.0,hazel,299.0,Charlotte Harris | Singing River Honda,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Little Ferry,New Jersey,2,1,1,50.0,john harris,194.0,magic auto sale llc | Rev Motors LLC,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Matthews,North Carolina,2,1,1,50.0,alexa,249.0,"Driveway Motors, LLC | Big Tex Trailers",Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Sparks,Nevada,2,1,1,50.0,rf006,199.0,Sender Motors LLC | VICTORIAN AUTO SALES INC,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Chapin,South Carolina,2,1,1,50.0,adam.c,149.0,Blue Diamond Cargo - Chapin | Hometown Integrity Driven Motors,Fast growing (50.0% joined recently). Urgency play — market is moving.
+11,Fremont,Nebraska,2,1,1,50.0,lexi,299.0,Millers Auto Sales | Nebraska Motors LLC,Fast growing (50.0% joined recently). Urgency play — market is moving.
+10,Hialeah,Florida,4,0,1,0.0,lisa,249.0,The Palm Motors LLC | Auto Expo Inc | Broward Motorsports of Miami,4 active dealers in area. Use as social proof in opener.
+10,Deland,Florida,3,0,2,0.0,adam.c,166.0,RC HILL HONDA OF DELAND | Vass Automotive | SOUTHERN RV INC,3 active dealers in area. Use as social proof in opener.
+10,Mechanicsburg,Pennsylvania,3,0,2,0.0,adam.c,266.0,Karns Performance | Lawrence Chevrolet | Auto First LLC,3 active dealers in area. Use as social proof in opener.
+10,Sherman Oaks,California,3,0,2,0.0,Anthony,299.0,RPM Motorcars | Anytime Auto Group | Monza Car,3 active dealers in area. Use as social proof in opener.
+10,Orange,California,4,0,1,0.0,Meryem Bismi,169.0,FutureRide | kevin cars | Dong Car Inc,4 active dealers in area. Use as social proof in opener.
+10,Jersey City,New Jersey,3,0,2,0.0,heather,266.0,MBM GROUP | Jersey City Autoland CORP | Diggi Auto Motors,3 active dealers in area. Use as social proof in opener.
+10,Haltom City,Texas,4,0,1,0.0,william,239.0,daim autos llc | Brothers Motors | Midcity Auto,4 active dealers in area. Use as social proof in opener.
+10,Manchester,New Hampshire,4,0,1,0.0,alexa,206.0,ODA Auto Precision LLC | MOMS Manchester New Hamsphire | valley street auto,4 active dealers in area. Use as social proof in opener.
+10,Seattle,Washington,4,0,1,0.0,lisa,160.0,Five Star Autos | EZ DEALS AUTO SALES | Wild About Cars Garage,4 active dealers in area. Use as social proof in opener.
+10,Katy,Texas,4,0,1,0.0,william,447.0,Avantgarde USA LLC | Carwin | Iron Supply Powersports,4 active dealers in area. Use as social proof in opener.
+10,Union Gap,Washington,3,0,2,0.0,adam.c,232.0,Premier Auto Group | MCKENNA MOTORS INC | Yaktown Motors,3 active dealers in area. Use as social proof in opener.
+10,Newport News,Virginia,4,0,1,0.0,amanda,204.0,Premier Autos Inc. | Advantage Motors Inc | Economy Auto Mart,4 active dealers in area. Use as social proof in opener.
+10,Longmont,Colorado,4,0,1,0.0,rf007,180.0,Southcreek Auto | Booth Motors LLC | AP Auto Brokers,4 active dealers in area. Use as social proof in opener.
+10,Okarche,Oklahoma,3,0,2,0.0,heather,192.0,Carter Chevrolet | Carter Chevrolet | Carter Chevrolet,3 active dealers in area. Use as social proof in opener.
+10,Tyler,Texas,4,0,1,0.0,emily,149.0,"Broadway Powerpsorts | SANDLOT AUTOS | OWONO MOTORS, LLC",4 active dealers in area. Use as social proof in opener.
+10,Jackson,Michigan,4,0,1,0.0,hazel,199.0,Monster motors | Jackson Auto Co. | Mid Michigan Trailers,4 active dealers in area. Use as social proof in opener.
+10,Durham,North Carolina,5,0,0,0.0,bill,219.0,Combustion Cycles | Moaven Motors | Durham's Auto Mart,5 active dealers in area. Use as social proof in opener.
+10,Villa Park,Illinois,5,0,0,0.0,bill,169.0,Chicago Harley-Davidson | Lucky Motors inc | Great Lakes Autosports,5 active dealers in area. Use as social proof in opener.
+10,Leesburg,Virginia,5,0,0,0.0,bill,201.0,Leesburg Auto Import | Leesburg Auto Import | Leesburg Auto Import,5 active dealers in area. Use as social proof in opener.
+10,Brooklyn,New York,5,0,0,0.0,bill,189.0,Triumph Brooklyn | Atlantic Car Sales | AutoForward Motors Inc,5 active dealers in area. Use as social proof in opener.
+10,New Castle,Delaware,5,0,0,0.0,Ethan bradford,219.0,Glacier Auto Sales 2 | Tri-State Truck & Equipment Sales LLC | Mac cars,5 active dealers in area. Use as social proof in opener.
+10,Melbourne,Florida,5,0,0,0.0,adam.c,189.0,"D&S Auto Sales, Inc | Murphy RV, LLC | PALM AUTO SALES",5 active dealers in area. Use as social proof in opener.
+10,Greenville,Texas,5,0,0,0.0,adam.c,159.0,"BTS TRAILER SALES LLC | Greenville Motors,llc | Diamond Crest Auto Sales",5 active dealers in area. Use as social proof in opener.
+10,Hickory,North Carolina,5,0,0,0.0,mason,219.0,"LA MOTORS, LLC | Great Western Of Hickory | EZ Cars of Hickory",5 active dealers in area. Use as social proof in opener.
+10,West Palm Beach,Florida,5,0,0,0.0,maria,175.0,South Dixie Auto Sales | MR CAR LUXURY & QUIALITY MOTOR LLC | Palm Beach Mitsubishi,5 active dealers in area. Use as social proof in opener.
+10,Addison,Illinois,5,0,0,0.0,lisa,187.0,Dream Motorworks LLC | REVVED MOTORS | TOP GEAR MOTORS,5 active dealers in area. Use as social proof in opener.
+10,Auburn,Washington,4,0,1,0.0,maria,172.0,supreme motors llc | Reliable Auto Sales | Del Toro Auto Sales,4 active dealers in area. Use as social proof in opener.
+10,Concord,California,5,0,0,0.0,tom,159.0,Bahal Motors | Delta Motors | Calidad Motors,5 active dealers in area. Use as social proof in opener.
+10,Saskatoon,Saskatchewan,5,0,0,0.0,melanie,185.0,KEHOE RV | sky motors limited | Village Auto Group,5 active dealers in area. Use as social proof in opener.
+10,Abbotsford,British Columbia,5,0,0,0.0,haidee,208.0,Envy Auto Connect | Rally Motors ltd | Open Road Toyota Abbotsford,5 active dealers in area. Use as social proof in opener.
+8,Largo,Florida,3,0,1,0.0,alexa,174.0,st mariam auto sale | donny mills auto sales inc. | CAMAUTOS SALES & SERVICE LLC,3 active dealers in area. Use as social proof in opener.
+8,Bonham,Texas,3,0,1,0.0,bill,299.0,Blackland Trailer Sales | Blackland Trailer Sales | Blackland Powersports and trailer sales,3 active dealers in area. Use as social proof in opener.
+8,Fort Pierce,Florida,3,0,1,0.0,alexa,262.0,772 motors | ARS POWERSPORTS OF FORT PIERCE | Sun Camper Rv,3 active dealers in area. Use as social proof in opener.
+8,New Bern,North Carolina,3,0,1,0.0,adam.c,199.0,Caballus Trailer | riverside camping center | Big Rock Powersports and Marine Newbern,3 active dealers in area. Use as social proof in opener.
+8,Temecula,California,2,0,2,0.0,william,249.0,Top Notch Auto Sales | Xtreme Auto Group,2 active dealers in area. Use as social proof in opener.
+8,Texas,Texas,3,0,1,0.0,alexa,166.0,MSM Auto Group | Miguel H Auto | Chase Autoplex,3 active dealers in area. Use as social proof in opener.
+8,Sanford,Florida,3,0,1,0.0,Claire,241.0,Orlando Auto Lounge | Sky Powersports Sanford | ETS AUTOS INC,3 active dealers in area. Use as social proof in opener.
+8,El Cajon,California,3,0,1,0.0,adam.c,249.0,Carson Trailer El Cajon | Santa Motor CA | Trinity Truck & SUV,3 active dealers in area. Use as social proof in opener.
+8,Waco,Texas,3,0,1,0.0,adam.c,146.0,Barger's Allsports | Toby's Autos | MIKE MCGEE MOTORS INC.,3 active dealers in area. Use as social proof in opener.
+8,Monroe,Louisiana,3,0,1,0.0,heather,208.0,Jim Taylor Buick GMC | ALLSTAR CARS & TRUCKS | Idom Auto Sales,3 active dealers in area. Use as social proof in opener.
+8,Ruston,Louisiana,2,0,2,0.0,heather,199.0,Jim Taylor Ford | Jim Taylor Ford,2 active dealers in area. Use as social proof in opener.
+8,Merriam,Kansas,3,0,1,0.0,rf002,199.0,Rahma Auto Sales | Smith and Sons Auto Sales | Country Hill Motors,3 active dealers in area. Use as social proof in opener.
+8,Kokomo,Indiana,3,0,1,0.0,Ethan bradford,266.0,"Fast Lane Autos | CITY OF FIRSTS AUTO | TNT Auto Sales & Services, Inc.",3 active dealers in area. Use as social proof in opener.
+8,Draper,Utah,2,0,2,0.0,emily,249.0,Utah Trailer Pros | Moto United - South Valley,2 active dealers in area. Use as social proof in opener.
+8,Baytown,Texas,3,0,1,0.0,Anthony,266.0,Ottos Auto World | Gene's Powersports | Auto District,3 active dealers in area. Use as social proof in opener.
+8,Kent,Ohio,3,0,1,0.0,alexa,174.0,ECAUTOCLUB LLC | Valumax | ECAUTOCLUB LLC,3 active dealers in area. Use as social proof in opener.
+8,Little River,South Carolina,3,0,1,0.0,adam.c,174.0,"Affordable Trailers South Carolina | Jamie James Motor Company | SELECT SALES, LLC",3 active dealers in area. Use as social proof in opener.
+8,Frederick,Maryland,3,0,1,0.0,rf006,266.0,Motorworld LLC | JT Motorsports Inc | capital auto sales,3 active dealers in area. Use as social proof in opener.
+8,Garden City,Idaho,3,0,1,0.0,Anthony,174.0,Bargain Auto Sales LLC | Allan Marsh Travel Center | Happy Camper RV Sales,3 active dealers in area. Use as social proof in opener.
+8,Rosemead,California,3,0,1,0.0,tyler young,266.0,FJ Motor Group | Nextcar Motor | ideal automotive,3 active dealers in area. Use as social proof in opener.
+8,Pharr,Texas,3,0,1,0.0,adam.c,199.0,F&T VALLEY MOTOR SPORTS | Valley Auto | JP Motors LLC,3 active dealers in area. Use as social proof in opener.
+8,Hammond,Indiana,3,0,1,0.0,alexa,150.0,SHOUMAN AUTO SALES AND RENTALS LLC | SOME AUTO SALES | Ace auto sales Inc,3 active dealers in area. Use as social proof in opener.
+8,Fostoria,Ohio,2,0,2,0.0,mark,249.0,Fairway CDJR LLC | Fairway CDJR LLC,2 active dealers in area. Use as social proof in opener.
+8,Vista,California,2,0,2,0.0,lisa,249.0,BLACK BLAZE MOTORS | SALAS CONSULTING LLC,2 active dealers in area. Use as social proof in opener.
+8,Fairfield,Ohio,3,0,1,0.0,bill,232.0,United Motorsports | The Auto Livery LLC | Automotive Connection,3 active dealers in area. Use as social proof in opener.
+8,Passaic,New Jersey,3,0,1,0.0,hazel,232.0,din motors llc | NASA AUTO GROUP LLC | Park Motor Cars,3 active dealers in area. Use as social proof in opener.
+8,Gresham,Oregon,3,0,1,0.0,kyle,199.0,Bickmore Auto Sales | Horizon Auto Sales LLC | LANDERS MOTORS,3 active dealers in area. Use as social proof in opener.
+8,Medford,New York,3,0,1,0.0,hazel,199.0,NEW YORK MOTOR CAR | KING AUTO SALES INC | Capital Motor Group,3 active dealers in area. Use as social proof in opener.
+8,Preston,Idaho,4,0,0,0.0,hazel,224.0,West Motor Ford | Mountain West Motor | Mountain West Motor,4 active dealers in area. Use as social proof in opener.
+8,Duluth,Georgia,4,0,0,0.0,josh,230.0,Atlanta Autoway | Duluth Autos & Trucks Inc. | ATLANTA DIRECT AUTO,4 active dealers in area. Use as social proof in opener.
+8,Moncton,New Brunswick,4,0,0,0.0,emily,224.0,Rallye Motors | Pine Acres RV Moncton LTD | Moncton Honda,4 active dealers in area. Use as social proof in opener.
+8,West Columbia,South Carolina,4,0,0,0.0,alexa,206.0,"Auto-Source of Columbia LLC | Automotive Experts Auto Sales | Rock N' Roll auto Sales, LLC.",4 active dealers in area. Use as social proof in opener.
+8,Pensacola,Florida,4,0,0,0.0,rf005,180.0,Pensacola Auto Brokers Truck Center | Auto network inc. | Car Bazaar,4 active dealers in area. Use as social proof in opener.
+8,St. Louis,Missouri,4,0,0,0.0,hazel,172.0,ALL AUTO SALES | Kneezle Auto Sales | BOOST AUTO SALES,4 active dealers in area. Use as social proof in opener.
+8,Norcross,Georgia,4,0,0,0.0,hazel,347.0,El Ranchero Trucks | Carzilla (GA) | Atlanta Auto Max,4 active dealers in area. Use as social proof in opener.
+8,Bono,Arkansas,4,0,0,0.0,bill,276.0,Jonesboro Cycle & ATV | Jonesboro Cycle and ATV Hemant | Jonesboro Cycle & ATV,4 active dealers in area. Use as social proof in opener.
+8,Smithfield,North Carolina,3,0,1,0.0,mason,134.0,Landmark Auto LLC | Jackson Automotive | SMITHFIELD AUTO CENTER LLC,3 active dealers in area. Use as social proof in opener.
+8,West Chester,Ohio,4,0,0,0.0,amanda,224.0,Unlimited Auto Group | Queen City Harley-Davidson | Preferred Autos LLC,4 active dealers in area. Use as social proof in opener.
+8,Belleville,Ontario,4,0,0,0.0,emily,102.0,Carl Cox Quality Cars | Ventureautosales | Stormys Auto Sales,4 active dealers in area. Use as social proof in opener.
+8,Waterloo,Ontario,4,0,0,0.0,hazel,212.0,KW Hond | TRI CITY CYCLE AND SPORT INC | TRICITY AUTO,4 active dealers in area. Use as social proof in opener.
+8,Lévis,Quebec,4,0,0,0.0,bill,162.0,Groupe Carrier | Groupe Carrier | Centre du VR St-Nicolas / Montmagny,4 active dealers in area. Use as social proof in opener.
+8,Eugene,Oregon,4,0,0,0.0,vanessa,156.0,VX Motors LLC | Motor City LLC | Success Auto Sales,4 active dealers in area. Use as social proof in opener.
+8,Midland,Texas,4,0,0,0.0,alexa,162.0,Rayan Motors | B & B AUTO SALES | LATINO AUTO SALES INC,4 active dealers in area. Use as social proof in opener.
+8,North Hollywood,California,4,0,0,0.0,lisa,186.0,Lifestyle Auto Haus | Armans Auto House | G & G Auto Wholesale,4 active dealers in area. Use as social proof in opener.
+8,Shreveport,Louisiana,4,0,0,0.0,hazel,266.0,ORR CADILLAC | moes autoplex 2 llc | LA 171 AUTO,4 active dealers in area. Use as social proof in opener.
+8,Lebanon,Tennessee,4,0,0,0.0,adam.c,162.0,Total Trailers Nashville | Auto World Plaza INC | Champs Auto Of lebanon LLC,4 active dealers in area. Use as social proof in opener.
+8,Osage Beach,Missouri,4,0,0,0.0,bill,232.0,Performance Marine Watersports | OZARK AUTO | Surdyke Yamaha & Marina,4 active dealers in area. Use as social proof in opener.
+8,Cambridge,Ontario,3,0,1,0.0,hazel,118.0,Source 1 Trucks | Pristine Auto Sales and Service | Lebada Motors Superstore Inc.,3 active dealers in area. Use as social proof in opener.
+8,Killeen,Texas,4,0,0,0.0,william,209.0,KILLEEN AUTO BROKERS | Killeen Auto Sales | Airport Auto Sales,4 active dealers in area. Use as social proof in opener.
+8,Davenport,Iowa,4,0,0,0.0,lexi,212.0,Kimberly Car CIty | Hawkeye Motorworks | Jeffs Car Corner,4 active dealers in area. Use as social proof in opener.
+8,Montreal,Quebec,4,0,0,0.0,hailey,162.0,AUTO GLOBAL | Auto Kent | Lombardi Honda,4 active dealers in area. Use as social proof in opener.
+8,New Westminster,British Columbia,4,0,0,0.0,lisa,145.0,kurumaya ventures ltd | Lions Auto | TALA AUTO SELECT INC,4 active dealers in area. Use as social proof in opener.
+8,Denton,Texas,4,0,0,0.0,amanda,166.0,AR Motors TX | Ev Auto Sales llc | Best Deals Auto,4 active dealers in area. Use as social proof in opener.
+8,Yakima,Washington,4,0,0,0.0,Claire,137.0,The Brown Boys | LV Auto sales and repair LLC | The Auto Mart Inc,4 active dealers in area. Use as social proof in opener.
+8,Lubbock,Texas,4,0,0,0.0,raymond,132.0,Eagle Motors LBK | Wells Capital | Davis Motor Co,4 active dealers in area. Use as social proof in opener.
+8,Rocky Mount,North Carolina,4,0,0,0.0,bill,182.0,TWIN COUNTY MOTORSPORTS | Maness Motors | AUTODRIVE NC INC,4 active dealers in area. Use as social proof in opener.
+8,West Richland,Washington,4,0,0,0.0,michael,299.0,NWP Auto Sales 3 | NWP Auto Sales 3 | NWP Auto Sales 1,4 active dealers in area. Use as social proof in opener.
+8,Jackson,Tennessee,4,0,0,0.0,rose,222.0,Carz Inc | Prime Auto USA | Old Country Auto,4 active dealers in area. Use as social proof in opener.
+8,Milwaukee,Wisconsin,4,0,0,0.0,adam.c,174.0,Hansen Brothers Auto Sales | Arandas Auto Body and Sales | Ramsey Motors & Auto Care,4 active dealers in area. Use as social proof in opener.
+8,Redford,Michigan,4,0,0,0.0,william,187.0,Quattro Motors | Billys Auto Sales Inc | Redford Auto Quality Used Cars,4 active dealers in area. Use as social proof in opener.
+8,Sainte-Catherine,Quebec,4,0,0,0.0,bill,94.0,clairmount auto | Clairmount auto inc | Clairmount Auto Inc,4 active dealers in area. Use as social proof in opener.
+8,Fort Collins,Colorado,4,0,0,0.0,ashely,196.0,Imports of Fort Collins Ltd | CHEEMA MOTORS INC | A&Z Import Auto Sales,4 active dealers in area. Use as social proof in opener.
+8,Santa Rosa,California,4,0,0,0.0,bill,224.0,Santa Rosa RV | skyline auto sales | Carriage Motors,4 active dealers in area. Use as social proof in opener.
+8,Philadelphia,Pennsylvania,4,0,0,0.0,maria,234.0,Arrow Motors | Germosen Auto Group Inc | Marc Rossi Auto Sales Inc.,4 active dealers in area. Use as social proof in opener.
+8,Abington,Massachusetts,4,0,0,0.0,melissa,144.0,CROWN AUTO SALES | autotowne truck sales | Platinum Auto Sales,4 active dealers in area. Use as social proof in opener.
+8,Fort Mill,South Carolina,4,0,0,0.0,tom,100.0,Mobile Magic Auto Center | BBS AUTO SALES | TRI-M MOTORCARS,4 active dealers in area. Use as social proof in opener.
+6,Warr Acres,Oklahoma,2,0,1,0.0,amanda,299.0,BEN 'S AUTO SALES | Greenway Auto Credit inc,2 active dealers in area. Use as social proof in opener.
+6,Palm Harbor,Florida,2,0,1,0.0,william,199.0,Briana's Auto Sales LLC. | 2K USACARS,2 active dealers in area. Use as social proof in opener.
+6,Bloomfield,New Jersey,2,0,1,0.0,chris walker,199.0,elite auto trend | Pristine auto group,2 active dealers in area. Use as social proof in opener.
+6,Jacksonville,North Carolina,2,0,1,0.0,rf005,149.0,Auto Mart | Onslow County Motor Company,2 active dealers in area. Use as social proof in opener.
+6,Doraville,Georgia,2,0,1,0.0,Austin Parker,644.0,Reyes Autos & Trucks | Auto Guia Atlanta,2 active dealers in area. Use as social proof in opener.
+6,Reynoldsburg,Ohio,2,0,1,0.0,tyler young,249.0,National Auto LLC | TRI-COUNTY PREOWNED SUPERSTORE,2 active dealers in area. Use as social proof in opener.
+6,Kingsburg,California,2,0,1,0.0,adam.c,149.0,Carson Trailer of Kingsburg | Kinsgburg Truck Center,2 active dealers in area. Use as social proof in opener.
+6,Whittier,California,2,0,1,0.0,Austin Parker,149.0,Prime Motors Direct LLC | RPE Motorcycle,2 active dealers in area. Use as social proof in opener.
+6,Ogden,Utah,2,0,1,0.0,emily,199.0,C&R Auto & Trailer Sales | bitton auto sales,2 active dealers in area. Use as social proof in opener.
+6,Greer,South Carolina,2,0,1,0.0,rf002,249.0,Select Auto Sales LLC | trade up auto sales,2 active dealers in area. Use as social proof in opener.
+6,Port Charlotte,Florida,2,0,1,0.0,Meryem Bismi,249.0,Florida Cars South | S&N Motorsports,2 active dealers in area. Use as social proof in opener.
+6,Upland,California,2,0,1,0.0,lisa,199.0,GSHSLLC | Don Chris Auto Sales,2 active dealers in area. Use as social proof in opener.
+6,Decatur,Georgia,2,0,1,0.0,Claire,199.0,a one auto gallery | olympic auto sales,2 active dealers in area. Use as social proof in opener.
+6,Yankton,South Dakota,2,0,1,0.0,adam.c,199.0,ALL SEASONS POWERSPORTS | Yankton Motorsports,2 active dealers in area. Use as social proof in opener.
+6,Dunnville,Ontario,2,0,1,0.0,Anthony,150.0,Dave's Auto Service | Dave's Auto Service,2 active dealers in area. Use as social proof in opener.
+6,Paynesville,Minnesota,2,0,1,0.0,emily,249.0,TED'S RV LAND | Paynesville Chevrolet,2 active dealers in area. Use as social proof in opener.
+6,Clarksburg,West Virginia,2,0,1,0.0,adam.c,149.0,Hilltop Auto Mart Preowned and Motorsports | milford street used cars,2 active dealers in area. Use as social proof in opener.
+6,Sarasota,Florida,2,0,1,0.0,amanda,239.0,Oceanview Motorcars | Certified Car Group Holding LLC,2 active dealers in area. Use as social proof in opener.
+6,Bellevue,Nebraska,2,0,1,0.0,rf006,162.0,Global Auto Sales | Elite Motors,2 active dealers in area. Use as social proof in opener.
+6,Olympia,Washington,2,0,1,0.0,william,199.0,Rainier Dodge | PNW AFFORDABLE AUTO,2 active dealers in area. Use as social proof in opener.
+6,Littleton,Colorado,2,0,1,0.0,ashley,144.0,CarDeals4Dogs | All Stars Rv,2 active dealers in area. Use as social proof in opener.
+6,Aurora,Colorado,2,0,1,0.0,amanda,149.0,GREEN STATE MOTORS | Layal Automotive,2 active dealers in area. Use as social proof in opener.
+6,Lafayette,Georgia,2,0,1,0.0,Claire,199.0,Jenkins Chrysler Dodge Jeep RAM | Jenkins Chrylser Dodge Jeep Ram,2 active dealers in area. Use as social proof in opener.
+6,Chesterfield,Michigan,2,0,1,0.0,ashley,244.0,VICTORY MOTORS | Macomb Powersports,2 active dealers in area. Use as social proof in opener.
+6,Eastpointe,Michigan,2,0,1,0.0,adam.c,244.0,Right Ride Auto sales LLC | IDrive Auto Group,2 active dealers in area. Use as social proof in opener.
+6,South Sioux City,Nebraska,2,0,1,0.0,Robert Anderson,149.0,Los Altos Auto Sales Inc | America Auto Inc.,2 active dealers in area. Use as social proof in opener.
+6,American Fork,Utah,2,0,1,0.0,emily,199.0,MOTO UNITED LEHI | Watts Automotive,2 active dealers in area. Use as social proof in opener.
+6,Dearborn,Michigan,2,0,1,0.0,lisa,199.0,Your Choice Auto Sales Inc. | father and son auto sales,2 active dealers in area. Use as social proof in opener.
+6,Abingdon,Virginia,2,0,1,0.0,mason,249.0,Variety Auto Sales | Cartopia Auto Sales,2 active dealers in area. Use as social proof in opener.
+6,Sheridan,Colorado,2,0,1,0.0,alexa,212.0,Custom Cars West | A & A Auto LLC,2 active dealers in area. Use as social proof in opener.
+6,Weatherford,Texas,2,0,1,0.0,alexa,249.0,Pee Wee Cray-FAIRLY RELIABLE USED CARS | Ontrack Equipment,2 active dealers in area. Use as social proof in opener.
+6,Queensbury,New York,2,0,1,0.0,emily,249.0,Dax powersports | Queensbury Auto Mall,2 active dealers in area. Use as social proof in opener.
+6,Selden,New York,2,0,1,0.0,emilia,149.0,Autoland USA Corp | JTL Auto Inc,2 active dealers in area. Use as social proof in opener.
+6,Cape Coral,Florida,2,0,1,0.0,lisa,249.0,C & D Auto Exchange | Auto Advantage USA,2 active dealers in area. Use as social proof in opener.
+6,Brentwood,New Hampshire,2,0,1,0.0,mason,199.0,Aspire Motoring LLC | Lewis Motor Sales,2 active dealers in area. Use as social proof in opener.
+6,Logansport,Indiana,2,0,1,0.0,rf007,199.0,Zims Auto Sales | Rick's Auto Sales,2 active dealers in area. Use as social proof in opener.
+6,Kings Mountain,North Carolina,2,0,1,0.0,heather,299.0,Mountaineer Motors | Hopper's Enterprise LLC,2 active dealers in area. Use as social proof in opener.
+6,Baton Rouge,Louisiana,2,0,1,0.0,rf007,158.0,ELITE IMPORT GROUP | Reliable Autos LLC,2 active dealers in area. Use as social proof in opener.
+6,Kelowna,British Columbia,2,0,1,0.0,bill,137.0,Kelowna Yamaha & Marine | KELOWNA POWERSPORTS,2 active dealers in area. Use as social proof in opener.
+6,Sykesville,Maryland,2,0,1,0.0,bill,199.0,RBS Auto & Trailer Sales | Trust Auto,2 active dealers in area. Use as social proof in opener.
+6,Wilmington,North Carolina,2,0,1,0.0,lisa,212.0,Battle Ship Cycles | Carfellas of Wilmington,2 active dealers in area. Use as social proof in opener.
+6,Kingsport,Tennessee,2,0,1,0.0,bill,299.0,Beacon Marine | Unique Auto Brokers,2 active dealers in area. Use as social proof in opener.
+6,Gardena,California,2,0,1,0.0,adam.c,199.0,"Carson Trailer, Inc | Auto Lifestyle L.A",2 active dealers in area. Use as social proof in opener.
+6,Clarinda,Iowa,2,0,1,0.0,bill,249.0,Load Pro Trailer Sales LLC | Whipp Sales & Service,2 active dealers in area. Use as social proof in opener.
+6,Erie,Pennsylvania,3,0,0,0.0,ashley,199.0,Boyer Marine and Powersports | CarsRus | CarsRus,3 active dealers in area. Use as social proof in opener.
+6,Salina,Kansas,3,0,0,0.0,emily,229.0,Kubota of Salina | The Car Shoppe Inc. | Salina Powersports,3 active dealers in area. Use as social proof in opener.
+6,Spring Lake,Michigan,3,0,0,0.0,bill,226.0,KEENAN MARINA | KEENAN MARINA | Keenan Marina Spring Lake,3 active dealers in area. Use as social proof in opener.
+6,Rock Hill,South Carolina,3,0,0,0.0,alexa,232.0,IVI MOTORS INC | Burnout Garage | Glory Motors LLC,3 active dealers in area. Use as social proof in opener.
+6,Columbia,Missouri,3,0,0,0.0,bill,238.0,Head's Blacktop Harley-Davidson | Head Motor Company | ASHLAND AUTO SALES,3 active dealers in area. Use as social proof in opener.
+6,Richmond,Kentucky,3,0,0,0.0,emily,208.0,"Gates Hyundai | United Motorsports | Cars of Kentucky, Inc.",3 active dealers in area. Use as social proof in opener.
+6,Taunton,Massachusetts,3,0,0,0.0,rf006,174.0,ATNT Auto Sales | Hermes Auto Sales inc | Walt's Motors,3 active dealers in area. Use as social proof in opener.
+6,Rochester,New York,3,0,0,0.0,emily,199.0,Bidleman Harley Davidson | Bidleman Powersports of Rochester | Rawan auto sales,3 active dealers in area. Use as social proof in opener.
+6,North Little Rock,Arkansas,3,0,0,0.0,bill,232.0,Honda of North Little Rock | Bradford Marine & ATV | DeAndre Sells Cars,3 active dealers in area. Use as social proof in opener.
+6,Whitman,Massachusetts,3,0,0,0.0,Anthony,174.0,Ally Motors Inc | AUTO SALES EXPRESS INC | Star Auto Sales,3 active dealers in area. Use as social proof in opener.
+6,Valdosta,Georgia,3,0,0,0.0,bill,232.0,Langdale Ford | Langdale Honda | Georgia Golf Carts and Trailers,3 active dealers in area. Use as social proof in opener.
+6,Lafayette,Indiana,3,0,0,0.0,rf007,266.0,Zali Auto LLC | Time 4 ride | Goldone Auto llc,3 active dealers in area. Use as social proof in opener.
+6,Bayville,New Jersey,3,0,0,0.0,bill,299.0,NJ Outboards | NJ Outboards | New Jersey Outboards,3 active dealers in area. Use as social proof in opener.
+6,Murfreesboro,Tennessee,3,0,0,0.0,mason,149.0,International Cars | Auto Empire Inc | ICAR AUTO SALES INC,3 active dealers in area. Use as social proof in opener.
+6,Concord,North Carolina,3,0,0,0.0,hazel,229.0,Big Tex Trailer World - Concord | Car store sales and service | Alta Auto Group,3 active dealers in area. Use as social proof in opener.
+6,North Fort Myers,Florida,3,0,0,0.0,kyle,232.0,Johnson Family Motors | Pondella Auto Wholesale | D & I Auto Sales Inc.,3 active dealers in area. Use as social proof in opener.
+6,Port Coquitlam,British Columbia,3,0,0,0.0,hazel,99.0,VANCITY AUTO APPROVALS | Truck Time Auto sales | Select Motors,3 active dealers in area. Use as social proof in opener.
+6,Wyoming,Michigan,3,0,0,0.0,heather,166.0,Auto Sport | Auto Sport Inc | select auto group llc,3 active dealers in area. Use as social proof in opener.
+6,South Salt Lake,Utah,2,0,1,0.0,rf002,249.0,Lithium Auto LLC | High Line Auto Sales,2 active dealers in area. Use as social proof in opener.
+6,Edgewood,Maryland,3,0,0,0.0,heather,299.0,A&M AUTO SALES INC | EZ Car PLus | AM auto sales INC,3 active dealers in area. Use as social proof in opener.
+6,Indio,California,3,0,0,0.0,emily,232.0,CALIFORNIA AUTO SALES | Salas Auto Group Inc | Nacho's Auto Sales,3 active dealers in area. Use as social proof in opener.
+6,Oakville,Ontario,3,0,0,0.0,ashley,216.0,Oakville Autos | Seven Speed Motors | energy power sports,3 active dealers in area. Use as social proof in opener.
+6,Wingate,North Carolina,3,0,0,0.0,william,156.0,Vantastic Mobility | Vantastic Mobility | Vantastic Mobility,3 active dealers in area. Use as social proof in opener.
+6,San Rafael,California,3,0,0,0.0,heather,229.0,Price INEOS Grenadier Marin | CAR FINDER MARIN | CARAGENTS inc,3 active dealers in area. Use as social proof in opener.
+6,New Port Richey,Florida,3,0,0,0.0,hazel,299.0,Julian's Auto Showcase | DAVID FAMILY AUTO | Car By Stash - Stashchak Enterprises LLC,3 active dealers in area. Use as social proof in opener.
+6,Bradenton,Florida,3,0,0,0.0,alexa,174.0,"BRANIS MOTORS INC | AR Prestige Auto Sale | Axis Motors, llc",3 active dealers in area. Use as social proof in opener.
+6,Owen Sound,Ontario,3,0,0,0.0,bill,163.0,Advanced Marine Powersports Owen Sound | Georgian Bay Harley-Davidson | Lakeview RV,3 active dealers in area. Use as social proof in opener.
+6,Hammond,Louisiana,3,0,0,0.0,tyler young,266.0,cashio's auto sales | Hammond Trailers | Northlake Auto Hammond,3 active dealers in area. Use as social proof in opener.
+6,Medford,Oregon,3,0,0,0.0,lisa,174.0,Southern Oregon Auto Sales LLC | Carport Car and Truck | Pacific Crest Auto Sales Inc.,3 active dealers in area. Use as social proof in opener.
+6,Newberry,South Carolina,3,0,0,0.0,adam.c,232.0,"Auto-Source of Newberry | CANNON AUTO SALES, INC. | Wilson Marine",3 active dealers in area. Use as social proof in opener.
+6,Bismarck,North Dakota,3,0,0,0.0,anna,266.0,Bisman Autoworx Inc | Vallely Sport & Marine | Dvorak Motors Inc,3 active dealers in area. Use as social proof in opener.
+6,Inwood,New York,3,0,0,0.0,bill,232.0,South Shore Chrysler Angel | Shore Shore CDJR | South Shore CDJR,3 active dealers in area. Use as social proof in opener.
+6,Murray,Utah,3,0,0,0.0,alexa,199.0,Parris RV - South | Parris RV | Taurus Trailer sales & Service,3 active dealers in area. Use as social proof in opener.
+6,Laredo,Texas,3,0,0,0.0,bill,216.0,"Bmg Xtreme Sports Texas | Ranger Motors | Carrillo Auto Center, LLC",3 active dealers in area. Use as social proof in opener.
+6,Eden,North Carolina,2,0,1,0.0,mark,249.0,Cars of Eden LLC | Kalimax Auto Group,2 active dealers in area. Use as social proof in opener.
+6,Saint-Jean-Sur-Richelieu,Quebec,3,0,0,0.0,hazel,150.0,Les véhicules OffRoad 104 | Roulottes Remillard | vehicules recreatifs steve driver,3 active dealers in area. Use as social proof in opener.
+6,Orem,Utah,3,0,0,0.0,michael,232.0,Clean Fuels Utah | Universal Motors LLC | Monarch Honda,3 active dealers in area. Use as social proof in opener.
+6,Torrington,Connecticut,2,0,1,0.0,heather,199.0,Berkshire Auto Sales | Connecticut Auto Wholesalers,2 active dealers in area. Use as social proof in opener.
+6,Macon,Georgia,3,0,0,0.0,lisa,183.0,LOOK TO BOOK AUTO BROKERS | Central Georgia Powersports | J FRANKLIN AUTO SALES,3 active dealers in area. Use as social proof in opener.
+6,Rogers,Arkansas,3,0,0,0.0,bill,262.0,"Sunrise Honda of Rogers | Sunrise Marine and Motorsports of Rogers | Lake Country RV, Inc.",3 active dealers in area. Use as social proof in opener.
+6,Santa Ana,California,3,0,0,0.0,bill,232.0,CARS UNLIMITED | Carin Auto | k&t motor llc,3 active dealers in area. Use as social proof in opener.
+6,Winchester,Virginia,3,0,0,0.0,mason,158.0,Winchester Wheels Auto Sales | Valley Cycle Center | Auto Bahn Motors,3 active dealers in area. Use as social proof in opener.
+6,Toms River,New Jersey,3,0,0,0.0,adam.c,232.0,Friendly Auto Group LLC | Country Motors | Candor Autosales,3 active dealers in area. Use as social proof in opener.
+6,Auburn,California,3,0,0,0.0,emily,199.0,Sundowner Trailers of California | EMC MOTORS INC | Auburn Extreme Powersports,3 active dealers in area. Use as social proof in opener.
+6,Abilene,Texas,3,0,0,0.0,Anthony,166.0,Lone Star Power Sports | Big Dog Autoplex | West Texas Watersports,3 active dealers in area. Use as social proof in opener.
+6,Sioux City,Iowa,3,0,0,0.0,mark,174.0,"Bak Motors | Lewis Blvd Auto Sales | Iowa Auto Sales, Inc",3 active dealers in area. Use as social proof in opener.
+6,Federal Way,Washington,3,0,0,0.0,vanessa,174.0,All Right Auto Sales | JMC Dealer Group | Orbit Auto Sales LLC,3 active dealers in area. Use as social proof in opener.
+6,Roselle,New Jersey,2,0,1,0.0,alexa,249.0,SAM'S AUTO WORLD CORP | SignDrive,2 active dealers in area. Use as social proof in opener.
+6,Eden Prairie,Minnesota,3,0,0,0.0,bill,174.0,Simply Ride | IDEAL AUTO IMPORTS LLC | Original Owner Autos,3 active dealers in area. Use as social proof in opener.
+6,Riviera Beach,Florida,3,0,0,0.0,allen,132.0,Supra Auto Sales LLC | Infinite Auto Sales | MJL Motorcars,3 active dealers in area. Use as social proof in opener.
+6,Richmond,British Columbia,3,0,0,0.0,raymond,136.0,Volvo Cars Richmond | Audi Downtown Vancouver | BC Prestige Motor Group Ltd,3 active dealers in area. Use as social proof in opener.
+6,Plainfield,New Jersey,2,0,1,0.0,alexa,299.0,CAR CITY AUTO GROUP | Luxurious Auto Sales Inc,2 active dealers in area. Use as social proof in opener.
+6,Reading,Pennsylvania,3,0,0,0.0,alexa,146.0,"SENDA AUTO SALES INC | McGinty Motorcars | CENTRE CITY IMPORTS, INC.",3 active dealers in area. Use as social proof in opener.
+6,Dayton,Ohio,3,0,0,0.0,hazel,141.0,Mira auto sales North | Dayton Motors LLC | zappia motors,3 active dealers in area. Use as social proof in opener.
+6,Hoover,Alabama,3,0,0,0.0,Claire,141.0,Hoover Southtown | Auto showcase | Americars Group,3 active dealers in area. Use as social proof in opener.
+6,Twin Falls,Idaho,3,0,0,0.0,hailey,199.0,Adventure Motorsports | Ruby Mountain Motors Twin Falls | Ruby Mountain Motors,3 active dealers in area. Use as social proof in opener.
+6,Cypress,Texas,3,0,0,0.0,alexa,199.0,Auto mall 2000 | 501 Motors LLC | Triple E Cars,3 active dealers in area. Use as social proof in opener.
+6,Poplar Bluff,Missouri,3,0,0,0.0,adam.c,232.0,"Bluff Powersport | Poplar Bluff Trailer, LLC | Poplar Bluff Trailer, Llc",3 active dealers in area. Use as social proof in opener.
+6,Pleasant Hill,Iowa,3,0,0,0.0,bill,232.0,Kars Incoporated | Kars Inc | Kars Inc Pleasant Hill,3 active dealers in area. Use as social proof in opener.
+6,Tracy,California,3,0,0,0.0,lexi,162.0,nmotionmotors | Nmotion Motors | d/a auto wholesale,3 active dealers in area. Use as social proof in opener.
+6,Fairfax,Virginia,3,0,0,0.0,ashley,174.0,apfairfax | Farrish of Fairfax | Auto Bank II,3 active dealers in area. Use as social proof in opener.
+6,Hattiesburg,Mississippi,3,0,0,0.0,jane,141.0,"Affordable Automotive Sales, LLC | Smith Motor Company | Cameron Motor Company LLC",3 active dealers in area. Use as social proof in opener.
+6,Trenton,New Jersey,3,0,0,0.0,mark,180.0,Pinto Auto Group | Jm Auto Studio | Eastern Auto Exchange,3 active dealers in area. Use as social proof in opener.
+6,Garfield,New Jersey,3,0,0,0.0,mark,232.0,Auto Wholesale | Urbin Auto Sales | mikes auto sales,3 active dealers in area. Use as social proof in opener.
+6,Saint-Hubert,Quebec,3,0,0,0.0,bill,150.0,Auto Clairmount Longueuil | Auto Clairmount Longueuil | Auto Clairmount Longueuil,3 active dealers in area. Use as social proof in opener.
+6,Plant City,Florida,3,0,0,0.0,emily,166.0,plant city truck and rv sales | Drive Now FL | Adames Auto Center,3 active dealers in area. Use as social proof in opener.
+6,Kennedale,Texas,3,0,0,0.0,haidee,83.0,Marquez Motors | EAGLE TRUCK AND AUTO | Allstar Imports,3 active dealers in area. Use as social proof in opener.
+6,Wahiawa,Hawaii,3,0,0,0.0,kelly,174.0,Top Value Auto | Lone Star Motosports | select auto group llc,3 active dealers in area. Use as social proof in opener.
+6,Martinsville,Virginia,3,0,0,0.0,kelly,119.0,star wheel auto sales | Martinsville Motors | Angler's Choice Marine,3 active dealers in area. Use as social proof in opener.
+6,Fremont,California,3,0,0,0.0,hannah,112.0,apexcars.net | Auto 4 Less | The Dealer,3 active dealers in area. Use as social proof in opener.
+6,National City,California,3,0,0,0.0,teddy,138.0,National City Automaxx | National City Auto Center | Surf Motors,3 active dealers in area. Use as social proof in opener.
+6,Gainesville,Florida,2,0,1,0.0,hazel,249.0,Madley Automotive LLC | GATOR CITY MOTORS LLC,2 active dealers in area. Use as social proof in opener.
+6,Harvey,Illinois,3,0,0,0.0,emily,120.0,firstmarshal | First Marshall Auto Auction | First Marshall Auto Auction,3 active dealers in area. Use as social proof in opener.
+6,Daly City,California,3,0,0,0.0,vanessa,113.0,DALY CITY MITSUBISHI | Autodeals | Autodeals,3 active dealers in area. Use as social proof in opener.
+6,Clearwater,Florida,3,0,0,0.0,maria,183.0,Royal Auto Sales of Clearwater | Autowize Auto Sales of Pinellas | verena automotive inc,3 active dealers in area. Use as social proof in opener.
+6,Lindenhurst,New York,3,0,0,0.0,athena,116.0,Sunrise Used Cars | Elite Motorgroup | SWEETHEART AUTO SALES INC,3 active dealers in area. Use as social proof in opener.
+6,Naples,Florida,3,0,0,0.0,dave,141.0,Economy Rent A Car of Naples Inc | The Motor Venue | Imports Unlimited of Naples Inc.,3 active dealers in area. Use as social proof in opener.
+6,Everett,Washington,3,0,0,0.0,maria,174.0,Maple Grove RV Sales | DEL SOL AUTO SALES | UTC Auto Brokers LLC,3 active dealers in area. Use as social proof in opener.
+6,Long Beach,California,3,0,0,0.0,moe,162.0,AVA  AUTO  SALES  INC | TOP RIDE AUTO GROUP INC | Hilltop Cars,3 active dealers in area. Use as social proof in opener.
+6,Irving,Texas,3,0,0,0.0,harvey,138.0,Autos Of Dallas 183 INC | California Connection Auto | Dallas Utility Trucks LLC,3 active dealers in area. Use as social proof in opener.
+6,Worcester,Massachusetts,3,0,0,0.0,lindsey,134.0,"Mass Auto Outlet, Inc. | Worcester Auto Outlet LLC | Pro-Car Autos INC",3 active dealers in area. Use as social proof in opener.
+6,Oklahoma,Oklahoma,3,0,0,0.0,britney,161.0,Auto Expo | Super Sports Auto Credit & Financing inc | E&R Boats Inc,3 active dealers in area. Use as social proof in opener.
+6,Corsicana,Texas,3,0,0,0.0,mary,96.0,Straight Up Motors | TRUCKS UNLIMITED | Brinson Powerports of Corsicana,3 active dealers in area. Use as social proof in opener.
+6,Winter Park,Florida,3,0,0,0.0,hazel,229.0,JC Auto Market | Velocity Autos | Rahib Motors,3 active dealers in area. Use as social proof in opener.
+6,Harrisonburg,Virginia,3,0,0,0.0,britney,134.0,Alan Auto & Truck Sales | Snyder's Auto Sales | Blue Ridge PowerSports,3 active dealers in area. Use as social proof in opener.
+6,Hyannis,Massachusetts,3,0,0,0.0,rick,99.0,The Car Guys Inc | Ziggy's Auto Specialties | Cape Cod Carz,3 active dealers in area. Use as social proof in opener.
+6,Burnaby,British Columbia,3,0,0,0.0,britney,73.0,Vancouver Car Centre | Morrey Nissan Burnaby | COLLINS CAR SALES LTD,3 active dealers in area. Use as social proof in opener.
+6,Mississauga,Ontario,3,0,0,0.0,vanessa,84.0,Motorway Auto Group | HBH Trading Inc. | Toronto Auto Sales & Leasing,3 active dealers in area. Use as social proof in opener.
+6,St. Catharines,Ontario,3,0,0,0.0,lindsey,112.0,Moesz Auto Sales Inc | Bloom Enterprise Autos Inc | Certified Affordable Cars,3 active dealers in area. Use as social proof in opener.
+6,North Bay,Ontario,3,0,0,0.0,marcy,141.0,ALLROADS AUTO SALES | Active Equipment Sales | Leisure Cycle & PowerSports ltd,3 active dealers in area. Use as social proof in opener.
+6,Iuka,Mississippi,3,0,0,0.0,iris,125.0,Southeast Auto Direct | Southeast Auto Direct | Southeast Auto Direct,3 active dealers in area. Use as social proof in opener.
+6,Johnson City,Tennessee,3,0,0,0.0,tom,174.0,Specialty Cars | ROCKY TOP MOTORS | GREAT MOTOR SALES,3 active dealers in area. Use as social proof in opener.
+6,Stafford,Virginia,3,0,0,0.0,lindsey,204.0,D&M DISCOUNT AUTO SALES LLC | AJNS Auto Sales | CarHub,3 active dealers in area. Use as social proof in opener.
+6,Missoula,Montana,3,0,0,0.0,nolan,438.0,"Lyman Motors, Inc | Montana Motor Mall | RV Truck Sales",3 active dealers in area. Use as social proof in opener.
+6,Spotsylvania,Virginia,3,0,0,0.0,nolan,208.0,UNIVERSAL MOTORS LLC | E SMART AUTO GROUP INC | 63 AUTO INC,3 active dealers in area. Use as social proof in opener.
+6,Oceanside,California,3,0,0,0.0,bill,208.0,"Anytime 2 Buy Auto LLC | CompleteTrailers of CA, LLC | Hanover Powersports",3 active dealers in area. Use as social proof in opener.
+6,Roswell,Georgia,2,0,1,0.0,ashley,249.0,car one | Salton Motor Cars,2 active dealers in area. Use as social proof in opener.
+4,Sheridan,Wyoming,2,0,0,0.0,emily,199.0,"Heartland Kubota, LLC | Midway Auto & RV Sheridan",2 active dealers in area. Use as social proof in opener.
+4,Riverbank,California,2,0,0,0.0,emily,199.0,Riverside Auto & Truck Inc | ECONOMY AUTO SALES,2 active dealers in area. Use as social proof in opener.
+4,Crossville,Tennessee,2,0,0,0.0,rf002,249.0,Park Place Motors | TOMMY'S MOTORSPORTS OF CROSSVILLE,2 active dealers in area. Use as social proof in opener.
+4,Wind Gap,Pennsylvania,2,0,0,0.0,william,199.0,Lipskys Auto | Xclusive Auto,2 active dealers in area. Use as social proof in opener.
+4,Great Neck,New York,2,0,0,0.0,bill,249.0,Gold Coast Motorsports | Import Masters,2 active dealers in area. Use as social proof in opener.
+4,North Logan,Utah,2,0,0,0.0,hazel,199.0,Mountain West Motor | Mountain West Motor,2 active dealers in area. Use as social proof in opener.
+4,Okeechobee,Florida,2,0,0,0.0,adam.c,199.0,ARS Powersports Okeechobee | SunCamper RV LLC,2 active dealers in area. Use as social proof in opener.
+4,Elk River,Minnesota,2,0,0,0.0,bill,212.0,Riverview Sports & Marine | Lee's Riverside Auto,2 active dealers in area. Use as social proof in opener.
+4,Frederick,Colorado,2,0,0,0.0,anna,194.0,Liberty Auto Sales | Blue Star Auto Group,2 active dealers in area. Use as social proof in opener.
+4,Glen Burnie,Maryland,2,0,0,0.0,Ethan bradford,299.0,Star Cars LLC | Joes auto sale,2 active dealers in area. Use as social proof in opener.
+4,Elk Grove,California,2,0,0,0.0,emily,179.0,ElkGrove Cars | A Lot Auto Sales Inc,2 active dealers in area. Use as social proof in opener.
+4,Conyers,Georgia,2,0,0,0.0,hazel,149.0,"TOP DEALS AUTOMOTIVE LLC | K &J ATL Enterprize, LLC",2 active dealers in area. Use as social proof in opener.
+4,Reidsville,North Carolina,2,0,0,0.0,bill,244.0,Big Apple Farm Supply | Walkers Auto,2 active dealers in area. Use as social proof in opener.
+4,Victoria,British Columbia,2,0,0,0.0,emily,249.0,ISLAND MOTORCYCLE COMPANY | Tractor time equipment,2 active dealers in area. Use as social proof in opener.
+4,Milton,Pennsylvania,2,0,0,0.0,bill,199.0,Robbins Marine | Robbins Marine,2 active dealers in area. Use as social proof in opener.
+4,Rutland,Vermont,2,0,0,0.0,emily,162.0,Central Vermont Motorcycles | Dan Kearney's,2 active dealers in area. Use as social proof in opener.
+4,Irmo,South Carolina,2,0,0,0.0,lisa,249.0,Full Circle Auto Sales | CIC Marine,2 active dealers in area. Use as social proof in opener.
+4,La Crescent,Minnesota,2,0,0,0.0,bill,249.0,Copperhead Carts | Eagle Motors,2 active dealers in area. Use as social proof in opener.
+4,Garner,North Carolina,2,0,0,0.0,hazel,249.0,Big Tex Trailer World - Raleigh | QR MOTOR COMPANY,2 active dealers in area. Use as social proof in opener.
+4,Cleveland,Tennessee,2,0,0,0.0,adam.c,249.0,Jacinto's Auto Sales LLC | JP AUTO CENTERS LLC,2 active dealers in area. Use as social proof in opener.
+4,Ohio,Ohio,2,0,0,0.0,amanda,249.0,PALEY AUTO GROUP | Melniks Automotive,2 active dealers in area. Use as social proof in opener.
+4,Jonesboro,Georgia,2,0,0,0.0,bill,299.0,A&A Center | Z AND Z FINE CARS ATL LLC,2 active dealers in area. Use as social proof in opener.
+4,Sterling,Virginia,2,0,0,0.0,amanda,199.0,LOCO MOTORCARS | FastTurn,2 active dealers in area. Use as social proof in opener.
+4,Derry,New Hampshire,2,0,0,0.0,Meryem Bismi,299.0,Second Car Center | Monarch Motorsports,2 active dealers in area. Use as social proof in opener.
+4,Mason City,Iowa,2,0,0,0.0,emily,239.0,Harley-Davidson of Mason City | Mason City Powersports,2 active dealers in area. Use as social proof in opener.
+4,Atascadero,California,2,0,0,0.0,mason,199.0,Karsnow | VS Marine Boating Center,2 active dealers in area. Use as social proof in opener.
+4,Washington,New Jersey,2,0,0,0.0,adam.c,249.0,"Skyline Equipment, LLC | Washington Auto Repair & SALES",2 active dealers in area. Use as social proof in opener.
+4,Hendersonville,North Carolina,2,0,0,0.0,hazel,249.0,"Givens Quality Auto Sales,Inc | MIles RV Center",2 active dealers in area. Use as social proof in opener.
+4,Pleasant Grove,Utah,2,0,0,0.0,bill,199.0,Motiv8d Motors | Motiv8d Motors,2 active dealers in area. Use as social proof in opener.
+4,Franklin,Ohio,2,0,0,0.0,hazel,139.0,trust auto inc | TRUST AUTO INC,2 active dealers in area. Use as social proof in opener.
+4,Madison,Wisconsin,2,0,0,0.0,Meryem Bismi,149.0,Lot 51 Auto Sales | Capital Auto Clinic LLC,2 active dealers in area. Use as social proof in opener.
+4,Buffalo,New York,2,0,0,0.0,Claire,74.0,Auto Edge | Select Auto Sales Inc,2 active dealers in area. Use as social proof in opener.
+4,North Platte,Nebraska,2,0,0,0.0,emily,162.0,NORTH PLATTE KUBOTA | AUTO ONE INC,2 active dealers in area. Use as social proof in opener.
+4,Southgate,Michigan,2,0,0,0.0,hazel,199.0,Southgate Honda Powersorts | Southgate Ford,2 active dealers in area. Use as social proof in opener.
+4,Tullahoma,Tennessee,2,0,0,0.0,bill,299.0,Chris Young's Trailer Sales | LINCOLN AUTO FINANCE LLC,2 active dealers in area. Use as social proof in opener.
+4,Rolling Meadows,Illinois,2,0,0,0.0,hazel,249.0,EXOTIC MOTORS INC | EXOTIC MOTORS INC,2 active dealers in area. Use as social proof in opener.
+4,Petersburg,Virginia,2,0,0,0.0,Claire,199.0,AUTO NETWORK | Green Light Autos,2 active dealers in area. Use as social proof in opener.
+4,Rapid City,South Dakota,2,0,0,0.0,bill,199.0,Rice's Rapid Motorsports | Summit Automotive Group,2 active dealers in area. Use as social proof in opener.
+4,Crown Point,Indiana,2,0,0,0.0,william,199.0,JOHNSON CAR COMPANY | JOHNSON CAR COMPANY,2 active dealers in area. Use as social proof in opener.
+4,Granbury,Texas,2,0,0,0.0,bill,184.0,Granbury Tractor | CRAIGS AUTO SALES,2 active dealers in area. Use as social proof in opener.
+4,Canyon Country,California,2,0,0,0.0,william,144.0,City cars warehouse inc | united loans,2 active dealers in area. Use as social proof in opener.
+4,Buxton,Maine,2,0,0,0.0,emily,249.0,Reynolds Motorsports | Saints Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Waipahu,Hawaii,2,0,0,0.0,rf006,212.0,TCA AUTO | bayview auto sales,2 active dealers in area. Use as social proof in opener.
+4,Milton,Vermont,2,0,0,0.0,adam.c,149.0,89 auto services | 802 AUTO SALES,2 active dealers in area. Use as social proof in opener.
+4,Decatur,Indiana,2,0,0,0.0,bill,299.0,Indiana Trailer Sales | Indiana Trailer Sales,2 active dealers in area. Use as social proof in opener.
+4,Kenner,Louisiana,2,0,0,0.0,bill,199.0,New Orleans Powersports | Am Auto Mart Kenner,2 active dealers in area. Use as social proof in opener.
+4,Roswell,New Mexico,2,0,0,0.0,Anthony,149.0,Zia Powersports | Rays Galactic Motors,2 active dealers in area. Use as social proof in opener.
+4,Emporia,Virginia,2,0,0,0.0,william,249.0,Greg OBerry | West Atlantic auto group,2 active dealers in area. Use as social proof in opener.
+4,Westfield,Massachusetts,2,0,0,0.0,marcus,249.0,A&Z AUTOS | Brill's Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Cedar Park,Texas,2,0,0,0.0,hazel,149.0,The Car Lott | Veracruz Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Woodstock,Georgia,2,0,0,0.0,adam.c,162.0,Atlanta Motorcycle Works | Star Car,2 active dealers in area. Use as social proof in opener.
+4,Lebanon,Missouri,2,0,0,0.0,bill,212.0,S&H Farm Supply Lebanon | Butler's Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,New Haven,Vermont,2,0,0,0.0,emily,199.0,Cyclewise Inc | Junction Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Chico,California,2,0,0,0.0,marcus,199.0,NEW AUTOS INC | chico top imports,2 active dealers in area. Use as social proof in opener.
+4,Sharon Hill,Pennsylvania,2,0,0,0.0,hazel,249.0,Auto Vibe | A 2 Z Motors,2 active dealers in area. Use as social proof in opener.
+4,Campbell River,British Columbia,2,0,0,0.0,marcus,249.0,PACIFIC NATIONS AUTO SALES AND FINANCE LTD. | Campbell River RV & Marine,2 active dealers in area. Use as social proof in opener.
+4,Midlothian,Texas,2,0,0,0.0,william,149.0,"Silver Star Motors | Chrome Cycles, LLC",2 active dealers in area. Use as social proof in opener.
+4,Henderson,Nevada,2,0,0,0.0,bill,194.0,Sin City Golf Carts | Henderson Harley-Davidson,2 active dealers in area. Use as social proof in opener.
+4,Somerset,Kentucky,2,0,0,0.0,bill,249.0,Coast to Coast Marine | Slate Branch Auto,2 active dealers in area. Use as social proof in opener.
+4,West Bend,Wisconsin,2,0,0,0.0,wayne,149.0,Leitheiser Car Company | Lifetime Auto Sales & Service,2 active dealers in area. Use as social proof in opener.
+4,Grinnell,Iowa,2,0,0,0.0,adam.c,199.0,Lacaeyse Trailer Sales | 4 Seasons Trailer And Equipment INC.,2 active dealers in area. Use as social proof in opener.
+4,Ft Myers,Florida,2,0,0,0.0,alexa,149.0,House Of Cars | Crystal Motor Cars,2 active dealers in area. Use as social proof in opener.
+4,Huntington Beach,California,2,0,0,0.0,Anthony,299.0,High Trade Inc | SoCal Motors,2 active dealers in area. Use as social proof in opener.
+4,Dover,Delaware,2,0,0,0.0,mason,212.0,Rozmarcllc | CAR PLACE,2 active dealers in area. Use as social proof in opener.
+4,Bolton,Ontario,2,0,0,0.0,emily,199.0,Via Trailers | Via Trailers,2 active dealers in area. Use as social proof in opener.
+4,Mckinney,Texas,2,0,0,0.0,william,299.0,ALLY AUTO LLC | NGFF Automotive Corporation,2 active dealers in area. Use as social proof in opener.
+4,Schenectady,New York,2,0,0,0.0,alexa,239.0,Pak Auto Corp | ALPHA MOTORS LLC,2 active dealers in area. Use as social proof in opener.
+4,Grand Island,Nebraska,2,0,0,0.0,emily,152.0,Grand Kubota | Auto One Inc,2 active dealers in area. Use as social proof in opener.
+4,Ventura,California,2,0,0,0.0,william,299.0,STA AUTO GROUP | Coast Cart Inc,2 active dealers in area. Use as social proof in opener.
+4,Hobart,Indiana,2,0,0,0.0,mark,299.0,Elite Auto Sales | Hobart Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Sidney,British Columbia,2,0,0,0.0,emily,139.0,Triangle RV | Ebanks Auto Sales Ltd,2 active dealers in area. Use as social proof in opener.
+4,Stratford,Ontario,2,0,0,0.0,Anthony,170.0,Stratford Honda | Camp-Out RV,2 active dealers in area. Use as social proof in opener.
+4,Alda,Nebraska,2,0,0,0.0,bill,294.0,United Trailer | United Trailer,2 active dealers in area. Use as social proof in opener.
+4,Daytona Beach,Florida,2,0,0,0.0,amanda,199.0,Jo Jo Cars Inc. | Infinity Auto Gallery,2 active dealers in area. Use as social proof in opener.
+4,Red Deer,Alberta,2,0,0,0.0,emily,200.0,Vellner Leisure Products | Mr. Motors,2 active dealers in area. Use as social proof in opener.
+4,Casper,Wyoming,2,0,0,0.0,adam.c,249.0,Paradise Auto | 307 Motors,2 active dealers in area. Use as social proof in opener.
+4,Fenton,Michigan,2,0,0,0.0,bill,299.0,Freeway Sport Center | Fenton Trading Post,2 active dealers in area. Use as social proof in opener.
+4,Cortez,Colorado,2,0,0,0.0,william,199.0,Fuel Auto | Fuel Auto LLC,2 active dealers in area. Use as social proof in opener.
+4,Saugus,Massachusetts,2,0,0,0.0,heather,149.0,AUTO EXCELLENCE GROUP | Auto House USA,2 active dealers in area. Use as social proof in opener.
+4,Victorville,California,2,0,0,0.0,heather,249.0,Route 66 Auto Center Inc | Boardwalk Motorcars,2 active dealers in area. Use as social proof in opener.
+4,Parma,Ohio,2,0,0,0.0,mark,249.0,DRIVEWISE AUTO MALL LLC | NATIONAL CAR MART,2 active dealers in area. Use as social proof in opener.
+4,Roca,Nebraska,2,0,0,0.0,maria,199.0,ROD'S POWER SPORTS | ROD'S POWER SPORTS,2 active dealers in area. Use as social proof in opener.
+4,Innisfil,Ontario,2,0,0,0.0,hazel,119.0,Sandy Cove Marine | Audi Barrie,2 active dealers in area. Use as social proof in opener.
+4,Olathe,Kansas,2,0,0,0.0,alexa,162.0,Midwest Auto South | kinsellakars,2 active dealers in area. Use as social proof in opener.
+4,Bridgeview,Illinois,2,0,0,0.0,bill,249.0,European Auto Sales | Harlem Auto Credit,2 active dealers in area. Use as social proof in opener.
+4,Hartford,Connecticut,2,0,0,0.0,amanda,249.0,Lee Motor Sales | LEX AUTOS LLC,2 active dealers in area. Use as social proof in opener.
+4,Elma,New York,2,0,0,0.0,william,299.0,Ken's Service and Sales | JAN-CEN MOTORSPORTS,2 active dealers in area. Use as social proof in opener.
+4,Vernon,Connecticut,2,0,0,0.0,alexa,249.0,F & Z MOTORS LLC | Scranton Powersports,2 active dealers in area. Use as social proof in opener.
+4,Fort Pierre,South Dakota,2,0,0,0.0,emily,249.0,Chase Auto & RV | Fineline Auto,2 active dealers in area. Use as social proof in opener.
+4,Yuba City,California,2,0,0,0.0,bill,199.0,ET Quality RV | Saini Motors LLC,2 active dealers in area. Use as social proof in opener.
+4,Pinellas,Florida,2,0,0,0.0,mason,139.0,Drive Smart Autos LLC | Drive Smart Autos LLC,2 active dealers in area. Use as social proof in opener.
+4,East Brunswick,New Jersey,2,0,0,0.0,hazel,249.0,M2 AUTOGROUP | M2 Auto Group,2 active dealers in area. Use as social proof in opener.
+4,Port Richey,Florida,2,0,0,0.0,bill,249.0,Broward Motorsports Port Richey | Cartina inc,2 active dealers in area. Use as social proof in opener.
+4,Burlington,North Carolina,2,0,0,0.0,mark,212.0,"Prestige Preowned Inc | Payless Motor Sales, LLC",2 active dealers in area. Use as social proof in opener.
+4,Union,South Carolina,2,0,0,0.0,alexa,199.0,Freedom Automotive Sales | Charles Walker Auto Sales LLC,2 active dealers in area. Use as social proof in opener.
+4,Chula Vista,California,2,0,0,0.0,lexi,149.0,iCar Automotive Group inc. | Santana Auto Group,2 active dealers in area. Use as social proof in opener.
+4,Grove City,Ohio,2,0,0,0.0,alexa,199.0,Southwest Auto Sales Inc | Funkys Automotive,2 active dealers in area. Use as social proof in opener.
+4,Vineland,New Jersey,2,0,0,0.0,maria,212.0,UA Auto Sales | JC Miller Auto Sales Inc,2 active dealers in area. Use as social proof in opener.
+4,St-Eustache,Quebec,2,0,0,0.0,hailey,150.0,Nadon sport | olivier paquette,2 active dealers in area. Use as social proof in opener.
+4,Whitby,Ontario,2,0,0,0.0,emily,127.0,Camping in Style RV Centre | The Car Shoppe,2 active dealers in area. Use as social proof in opener.
+4,Warsaw,Indiana,2,0,0,0.0,adam.c,194.0,LUCKY 7 CAR STORE | Lakeside Chevrolet,2 active dealers in area. Use as social proof in opener.
+4,New Richmond,Wisconsin,2,0,0,0.0,emily,199.0,St Croix Harley Davidson | Warner's Dock Inc.,2 active dealers in area. Use as social proof in opener.
+4,Panama City,Florida,2,0,0,0.0,adam.c,149.0,Trailer World Southeast | Lucky Motors LLC,2 active dealers in area. Use as social proof in opener.
+4,Burlington,Ontario,2,0,0,0.0,maria,187.0,Bronte Auto Services Inc. | Leggat Discovery Ford,2 active dealers in area. Use as social proof in opener.
+4,Gallipolis,Ohio,2,0,0,0.0,lisa,249.0,RJ Hupp Autos LLC | Dave's Supreme Auto Sales LLC,2 active dealers in area. Use as social proof in opener.
+4,Shawinigan,Quebec,2,0,0,0.0,hailey,200.0,Vincent Auto | MVM MOTOSPORT,2 active dealers in area. Use as social proof in opener.
+4,Rouyn-Noranda,Quebec,2,0,0,0.0,hailey,175.0,Moto Sport du Cuivre Inc. | Moto Sport de la Capitale,2 active dealers in area. Use as social proof in opener.
+4,Vallejo,California,2,0,0,0.0,hazel,212.0,Nitro Auto | Carosell Motors Inc.,2 active dealers in area. Use as social proof in opener.
+4,Gettysburg,Pennsylvania,2,0,0,0.0,lexi,162.0,C&R AUTO FLEET LLC | Getty Auto Sale & Service LLC,2 active dealers in area. Use as social proof in opener.
+4,Baker,Louisiana,2,0,0,0.0,lisa,299.0,Turbo Motors | TURBO MOTORS,2 active dealers in area. Use as social proof in opener.
+4,Clinton,Tennessee,2,0,0,0.0,emily,249.0,Tommy's Motorsports | FREEDOM MOTORS LLC,2 active dealers in area. Use as social proof in opener.
+4,El Reno,Oklahoma,2,0,0,0.0,william,299.0,Haller Wholesale | CMP Equipment & Truck Sales,2 active dealers in area. Use as social proof in opener.
+4,Lincoln Park,Michigan,2,0,0,0.0,ashley,212.0,Park Autoplex | BIG MIKE AUTO SALES LLC,2 active dealers in area. Use as social proof in opener.
+4,Harrisburg,Pennsylvania,2,0,0,0.0,bill,194.0,Koup's Cycle Shop | Rogelio vazquez,2 active dealers in area. Use as social proof in opener.
+4,South Houston,Texas,2,0,0,0.0,amanda,149.0,Spencer Auto Sales LLC | Mario's Auto Group,2 active dealers in area. Use as social proof in opener.
+4,Terre Haute,Indiana,2,0,0,0.0,mason,239.0,Midwest High End Auto Finance LLC | B&R AUTO SALES,2 active dealers in area. Use as social proof in opener.
+4,Rincon,Georgia,2,0,0,0.0,william,162.0,MAG24 Enterprises | D & S AUTO BROKERS LLC,2 active dealers in area. Use as social proof in opener.
+4,Canonsburg,Pennsylvania,2,0,0,0.0,maria,212.0,John Warne Motors | AUTO ESTATES INC.,2 active dealers in area. Use as social proof in opener.
+4,Hainesport,New Jersey,2,0,0,0.0,heather,162.0,Fairway Auto Sales | fairway auto sales,2 active dealers in area. Use as social proof in opener.
+4,Warrenton,Virginia,2,0,0,0.0,hazel,212.0,"Car Bargain | Overdrive Motors, LLC",2 active dealers in area. Use as social proof in opener.
+4,Waukesha,Wisconsin,2,0,0,0.0,bill,199.0,Ideal Auto Waukesha | Freeland LLC,2 active dealers in area. Use as social proof in opener.
+4,Apache Junction,Arizona,2,0,0,0.0,bill,199.0,TEXAS PRIDE Trailers Arizona | Southwest Tractor & Equipment,2 active dealers in area. Use as social proof in opener.
+4,Hickory Hills,Illinois,2,0,0,0.0,ash,299.0,Platinum Motorsports Inc | S&M Motor Sports,2 active dealers in area. Use as social proof in opener.
+4,Clifton Park,New York,2,0,0,0.0,maria,144.0,Clifton Park Cars | Nicky v's auto sales,2 active dealers in area. Use as social proof in opener.
+4,Shawnee,Oklahoma,2,0,0,0.0,bill,249.0,"Shawnee Motorsports | Kasterke Auto Mart, inc",2 active dealers in area. Use as social proof in opener.
+4,Marrero,Louisiana,2,0,0,0.0,maria,125.0,AM Auto Mart,2 active dealers in area. Use as social proof in opener.
+4,Roseville,Michigan,2,0,0,0.0,jacob,199.0,DRIVE AUTO SALES LLC | All Approved Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Lakeland,Florida,2,0,0,0.0,lisa,212.0,Fast Financial Auto Mall Inc | ideal wheels,2 active dealers in area. Use as social proof in opener.
+4,Richmond,New York,2,0,0,0.0,hazel,199.0,Six Stars Auto | Six Stars Auto,2 active dealers in area. Use as social proof in opener.
+4,Chicoutimi,Quebec,2,0,0,0.0,bill,150.0,Groupe Carrier | IMPERIUM,2 active dealers in area. Use as social proof in opener.
+4,Aurora,Illinois,2,0,0,0.0,ash,199.0,DRIVEWAY DEALS | THE CAR STORE AUTO CORP,2 active dealers in area. Use as social proof in opener.
+4,Fredericton,New Brunswick,2,0,0,0.0,michael,104.0,Lyle Bongard’s RV Sales | Instant Wheels,2 active dealers in area. Use as social proof in opener.
+4,La Sarre,Quebec,2,0,0,0.0,bill,124.0,Fleury Auto Groupe | DIMENSION EXPEDITION,2 active dealers in area. Use as social proof in opener.
+4,Rockland,Ontario,2,0,0,0.0,michael,128.0,Safari RV | Harmony Hyundai,2 active dealers in area. Use as social proof in opener.
+4,San Angelo,Texas,2,0,0,0.0,Anthony,249.0,Three Rivers Marine & Outdoor | Texas Truck World LLC,2 active dealers in area. Use as social proof in opener.
+4,Pawtucket,Rhode Island,2,0,0,0.0,hazel,199.0,Accurate Automotive Sales & Service | Jeff Millette Auto Center,2 active dealers in area. Use as social proof in opener.
+4,Thurso,Quebec,2,0,0,0.0,bill,187.0,Moto Sport Petite Nation | Sam's Trailers,2 active dealers in area. Use as social proof in opener.
+4,Pasadena,California,2,0,0,0.0,mason,199.0,rose city auto sales | car depot,2 active dealers in area. Use as social proof in opener.
+4,Cochrane,Alberta,2,0,0,0.0,raymond,299.0,Bow Ridge Sports & Marine Inc | Bow Ridge Sports & Marine Inc,2 active dealers in area. Use as social proof in opener.
+4,Davis,California,2,0,0,0.0,john,212.0,Explore Nation RV INC | FABULOUS AUTO SALES,2 active dealers in area. Use as social proof in opener.
+4,Mentor,Ohio,2,0,0,0.0,raymond,299.0,Ken Ganley Kia Mentor | Ken Ganley Kia Mentor,2 active dealers in area. Use as social proof in opener.
+4,Keokuk,Iowa,2,0,0,0.0,Claire,162.0,ECKLAND MOTORS | Derr Motor Company,2 active dealers in area. Use as social proof in opener.
+4,Farmington,Minnesota,2,0,0,0.0,maria,199.0,United Auto Group | Dakota Motor Company,2 active dealers in area. Use as social proof in opener.
+4,Louiseville,Quebec,2,0,0,0.0,hailey,150.0,Lapointe sports Louiseville | Sicard Motosport,2 active dealers in area. Use as social proof in opener.
+4,Trenton,Ontario,2,0,0,0.0,hailey,150.0,wes bristow | Quinte RV,2 active dealers in area. Use as social proof in opener.
+4,Yuma,Arizona,2,0,0,0.0,william,199.0,Desert Toy Box | Desantiago Auto,2 active dealers in area. Use as social proof in opener.
+4,New Philadelphia,Ohio,2,0,0,0.0,william,162.0,Action Extreme Sports | dealer Advantage L.L.C.,2 active dealers in area. Use as social proof in opener.
+4,Greenville,North Carolina,2,0,0,0.0,bill,249.0,Big Rock Powersports & Marine of Greenville | Family Auto Center,2 active dealers in area. Use as social proof in opener.
+4,Branson,Missouri,2,0,0,0.0,amanda,162.0,LAKESIDE MOTORS INC | Tri-Lakes Motors,2 active dealers in area. Use as social proof in opener.
+4,Wilkesboro,North Carolina,2,0,0,0.0,john,162.0,Randy Marion Chrysler Dodge Jeep Ram | Minton Automotive Truck Sales,2 active dealers in area. Use as social proof in opener.
+4,Bunnell,Florida,2,0,0,0.0,alexa,199.0,All Outdoors Trailer Sales | Ron's Rides Inc,2 active dealers in area. Use as social proof in opener.
+4,Decorah,Iowa,2,0,0,0.0,bill,199.0,Decorah Kawasaki Sports Center | b&b sales,2 active dealers in area. Use as social proof in opener.
+4,Gulfport,Mississippi,2,0,0,0.0,rose,199.0,NEXT LEVEL AUTOS | FreedomWay Trucks,2 active dealers in area. Use as social proof in opener.
+4,Fenton,Missouri,2,0,0,0.0,william,212.0,West Port Auto Center | BBC MOTORS INC.,2 active dealers in area. Use as social proof in opener.
+4,Wildwood,Florida,2,0,0,0.0,mark,249.0,One stop golf cart | LUCKY U CYCLES,2 active dealers in area. Use as social proof in opener.
+4,Burien,Washington,2,0,0,0.0,alex,199.0,"LOS MUNOZ AUTO SALES LLC | Autos Only, Inc.",2 active dealers in area. Use as social proof in opener.
+4,Wayne,Michigan,2,0,0,0.0,mason,249.0,DriveWise Auto Finance | Road Runner Auto Sale,2 active dealers in area. Use as social proof in opener.
+4,Augusta,Maine,2,0,0,0.0,bill,199.0,Paul Blouin Mazda | Blouin Performance,2 active dealers in area. Use as social proof in opener.
+4,Jackson,Missouri,2,0,0,0.0,bill,249.0,Sappington Pro Outdoor | FIRST AUTO CREDIT,2 active dealers in area. Use as social proof in opener.
+4,Devils Lake,North Dakota,2,0,0,0.0,bill,199.0,Joe's Sport Center | Devils Lake Marine and Sports Center,2 active dealers in area. Use as social proof in opener.
+4,Swansboro,North Carolina,2,0,0,0.0,bill,202.0,Maness Motors of Swansboro | Auto Network of Swansboro,2 active dealers in area. Use as social proof in opener.
+4,Lakewood,Colorado,2,0,0,0.0,bill,199.0,Motorado | Mister Auto,2 active dealers in area. Use as social proof in opener.
+4,Evanston,Wyoming,2,0,0,0.0,bill,199.0,Addicted Powersports | Rocky Mountain Yeti Evanston,2 active dealers in area. Use as social proof in opener.
+4,Topeka,Kansas,2,0,0,0.0,michael,162.0,Ace Auto Sales | Big Phil's Auto Plaza,2 active dealers in area. Use as social proof in opener.
+4,La Puente,California,2,0,0,0.0,mark,199.0,Palm Hills Auto | Atlantis Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Bristol,Pennsylvania,2,0,0,0.0,raymond,199.0,American Auto Bristol Inc | 4th Avenue Motors,2 active dealers in area. Use as social proof in opener.
+4,Hudsonville,Michigan,2,0,0,0.0,lisa,212.0,Cars By Jamie | Parkway Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Hazlet,New Jersey,2,0,0,0.0,amy,194.0,First Motors | Liberty Autos,2 active dealers in area. Use as social proof in opener.
+4,Willow Grove,Pennsylvania,2,0,0,0.0,bill,299.0,Germosen Auto Willow Grove Inc | Selden Motors,2 active dealers in area. Use as social proof in opener.
+4,Indiana,Pennsylvania,2,0,0,0.0,rose,299.0,NORTH EAST LOCATERS | VALUE AUTO,2 active dealers in area. Use as social proof in opener.
+4,St Paul,Minnesota,2,0,0,0.0,ashely,299.0,RIVERA AUTO SALES LLC | Ado's Motors,2 active dealers in area. Use as social proof in opener.
+4,Springdale,Arkansas,2,0,0,0.0,mason,162.0,jon l dellinger | Taylor Auto Sales Inc,2 active dealers in area. Use as social proof in opener.
+4,Lake Elsinore,California,2,0,0,0.0,bill,299.0,Pacific Freedom | RV Ready,2 active dealers in area. Use as social proof in opener.
+4,Rensselaer,New York,2,0,0,0.0,maria,179.0,OLYMPIA MOTOR CAR COMPANY | Y & H Auto Planet,2 active dealers in area. Use as social proof in opener.
+4,Bellevue,Washington,2,0,0,0.0,bill,212.0,Definitive Motors | Auto Car Zone LLC,2 active dealers in area. Use as social proof in opener.
+4,Ottumwa,Iowa,2,0,0,0.0,bill,199.0,RJ Powersports | RJ Powersports,2 active dealers in area. Use as social proof in opener.
+4,Hallandale Beach,Florida,2,0,0,0.0,maria,199.0,Best Price Dealer | SCOOTER CITY USA LLC,2 active dealers in area. Use as social proof in opener.
+4,Lewiston,Idaho,2,0,0,0.0,bill,212.0,Guy's Outdoor Motorsports & Marine | valley car sales,2 active dealers in area. Use as social proof in opener.
+4,Columbia,South Carolina,2,0,0,0.0,allen,199.0,Allstar20 Auto | Star Auto Sales LLC,2 active dealers in area. Use as social proof in opener.
+4,Wilton Manors,Florida,2,0,0,0.0,lisa,299.0,Autoxperts llc | ENERGY AUTO SALES,2 active dealers in area. Use as social proof in opener.
+4,Ontario,California,2,0,0,0.0,rose,199.0,california auto expert | VARIETY AUTO SALES,2 active dealers in area. Use as social proof in opener.
+4,Angleton,Texas,2,0,0,0.0,bill,244.0,Brazos Tractor & Powersports | Houston Motorsports Angleton,2 active dealers in area. Use as social proof in opener.
+4,Hopkins,Minnesota,2,0,0,0.0,raymond,162.0,MAINSTREET MOTOR COMPANY | Metro Motorcars,2 active dealers in area. Use as social proof in opener.
+4,Woodbridge,Virginia,2,0,0,0.0,heather,199.0,CARSERG | Auto Finance Center LLC,2 active dealers in area. Use as social proof in opener.
+4,Lakewood,New Jersey,2,0,0,0.0,mark,249.0,Auto HeadQuarters | Certified Premium Motors,2 active dealers in area. Use as social proof in opener.
+4,Peoria,Arizona,2,0,0,0.0,bill,149.0,GO AZ MOTORCYCLES PEORIA | avondale motors llc,2 active dealers in area. Use as social proof in opener.
+4,Tilbury,Ontario,2,0,0,0.0,bill,126.0,Oliveira Equipment | Lanoue sales and leasing,2 active dealers in area. Use as social proof in opener.
+4,Smyrna,Georgia,2,0,0,0.0,koby,199.0,GLOBAL MOTORS VIP | 1st Choice Autos,2 active dealers in area. Use as social proof in opener.
+4,Lenoir City,Tennessee,2,0,0,0.0,haidee,87.0,Lowery's Trucks | TILLEY MOTOR COMPANY,2 active dealers in area. Use as social proof in opener.
+4,Hooksett,New Hampshire,2,0,0,0.0,haidee,99.0,ALFA CARS | Best Auto and Truck LLC,2 active dealers in area. Use as social proof in opener.
+4,Corona,California,2,0,0,0.0,haidee,194.0,California Highlines | Green Light Auto,2 active dealers in area. Use as social proof in opener.
+4,Mansfield,Texas,2,0,0,0.0,haidee,74.0,RT Auto | SWOT HOLDINGS LLC,2 active dealers in area. Use as social proof in opener.
+4,Simi Valley,California,2,0,0,0.0,hannah,112.0,California Cars | Panoramic RV Corporation,2 active dealers in area. Use as social proof in opener.
+4,Renton,Washington,2,0,0,0.0,haidee,162.0,Heritage Cars | Highland Auto,2 active dealers in area. Use as social proof in opener.
+4,Chilliwack,British Columbia,2,0,0,0.0,ophelia,97.0,MCE Motors | Mountainview,2 active dealers in area. Use as social proof in opener.
+4,Middletown,New Jersey,2,0,0,0.0,alexa,199.0,Motorcycle Mall of Monmouth | A-Kar Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Avon Park,Florida,2,0,0,0.0,maria,162.0,Huston Chevrolet | Bill Owens Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Findlay,Ohio,2,0,0,0.0,bill,149.0,American Powersport | Findlay Truck and RV,2 active dealers in area. Use as social proof in opener.
+4,Monroe,Washington,2,0,0,0.0,vanessa,149.0,RARE GARAGE AUTO | Seattle motorsports inc  dba Adventure Motorsports,2 active dealers in area. Use as social proof in opener.
+4,New Britain,Connecticut,2,0,0,0.0,lindsey,99.0,universal motors llc | ARide Auto Sales LLC,2 active dealers in area. Use as social proof in opener.
+4,Canterbury,Connecticut,2,0,0,0.0,desmond,212.0,SOUZA WHOLESALE TRAILERS | SOUZA WHOLESALE TRAILERS,2 active dealers in area. Use as social proof in opener.
+4,Santa Clara,California,2,0,0,0.0,raymond,249.0,Star One Imports | Elias Motors Inc,2 active dealers in area. Use as social proof in opener.
+4,Ocoee,Florida,2,0,0,0.0,mac,125.0,Ultimate Autosports | WEST ORANGE AUTO BROKERS LLC,2 active dealers in area. Use as social proof in opener.
+4,Kankakee,Illinois,2,0,0,0.0,rey,125.0,Stevenson Auto Sales | cargo vans of chicago llc,2 active dealers in area. Use as social proof in opener.
+4,Redlands,California,2,0,0,0.0,nathalie,157.0,the import connection | On Point Truck Sales LLC,2 active dealers in area. Use as social proof in opener.
+4,Oakland Park,Florida,2,0,0,0.0,mac,162.0,THE AUTO CLUB LLC | Fort Lauderdale Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,South Burlington,Vermont,2,0,0,0.0,lauren,408.0,Barry's Automotive | Williston Economy Motors,2 active dealers in area. Use as social proof in opener.
+4,Kingston,New York,2,0,0,0.0,moe,112.0,tri-star auto sales | affordable cars,2 active dealers in area. Use as social proof in opener.
+4,Traverse City,Michigan,2,0,0,0.0,haidee,157.0,Wares Auto Sales | Vans Motor Sales inc,2 active dealers in area. Use as social proof in opener.
+4,Sun Valley,California,2,0,0,0.0,heather,149.0,"Sun Land Auto Group | Autohighway, Inc",2 active dealers in area. Use as social proof in opener.
+4,Patchogue,New York,2,0,0,0.0,raymond,162.0,112 Auto Plaza | Jayware Inc,2 active dealers in area. Use as social proof in opener.
+4,Salinas,California,2,0,0,0.0,rick,644.0,Salinas Motors | Thomassin Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Bossier City,Louisiana,2,0,0,0.0,harvey,125.0,SAMS USED CAR SALES | Consumers Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Bowling Green,Kentucky,2,0,0,0.0,bill,162.0,Harley-Davidson Bowling Green | J & K USED CARS INC,2 active dealers in area. Use as social proof in opener.
+4,Wiscasset,Maine,2,0,0,0.0,vanessa,149.0,Norms Used Cars | GROVER AUTO & TIRE INC,2 active dealers in area. Use as social proof in opener.
+4,Arroyo Grande,California,2,0,0,0.0,lindsey,149.0,Mullahey Ford | CASTRO AUTO SALES,2 active dealers in area. Use as social proof in opener.
+4,Rome,New York,2,0,0,0.0,rick,115.0,Low Priced Auto | Risen Auto,2 active dealers in area. Use as social proof in opener.
+4,Johnston,Rhode Island,2,0,0,0.0,britney,199.0,ebuyauto | Ocean State Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Pelham,New Hampshire,2,0,0,0.0,vanessa,125.0,Charlie's Auto Village | Auto Stop Inc,2 active dealers in area. Use as social proof in opener.
+4,Regina,Saskatchewan,2,0,0,0.0,marcy,67.0,Every Day Auto Sales Ltd. | Go To Auto,2 active dealers in area. Use as social proof in opener.
+4,Maplewood,Minnesota,2,0,0,0.0,henry,124.0,Lexdan Automotive | Sparkle Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Sunland,California,2,0,0,0.0,levi,199.0,Five Star Auto Group | Carfluent Inc,2 active dealers in area. Use as social proof in opener.
+4,Vancouver,Washington,2,0,0,0.0,henry,199.0,Red Line Auto Sales | Used LLC,2 active dealers in area. Use as social proof in opener.
+4,Vinita,Oklahoma,2,0,0,0.0,ron,84.0,TASK FORCE MOTORS LLC | Joe Watt Auto Sales Inc.,2 active dealers in area. Use as social proof in opener.
+4,Van Nuys,California,2,0,0,0.0,dave,162.0,Alpine Motors | Tech Auto Group,2 active dealers in area. Use as social proof in opener.
+4,Euless,Texas,2,0,0,0.0,rick,149.0,HEB Auto Sales | CENTURY AUTO GROUP LLC,2 active dealers in area. Use as social proof in opener.
+4,Pacoima,California,2,0,0,0.0,ashley,149.0,Williams Auto Mart INC | Karplus Warehouse Inc.,2 active dealers in area. Use as social proof in opener.
+4,Tempe,Arizona,2,0,0,0.0,ruby,112.0,AUTO DEALZ | VALLEY AUTO SOURCE,2 active dealers in area. Use as social proof in opener.
+4,Colton,California,2,0,0,0.0,henry,149.0,"Meza Auto Sales | The truck boutique, llc",2 active dealers in area. Use as social proof in opener.
+4,Holiday,Florida,2,0,0,0.0,henry,108.0,GIGI car inc | East Lake Truck & Car Sales,2 active dealers in area. Use as social proof in opener.
+4,Canton,Connecticut,2,0,0,0.0,amanda,149.0,Bach Motor Cars | Canton Auto Exchange Inc,2 active dealers in area. Use as social proof in opener.
+4,Portsmouth,Virginia,2,0,0,0.0,marcy,125.0,TOWN AUTOPLANET LLC | Auto City,2 active dealers in area. Use as social proof in opener.
+4,Spencerport,New York,2,0,0,0.0,mary,120.0,Auto Link Inc | Jacobs Auto sales LLC,2 active dealers in area. Use as social proof in opener.
+4,Round Rock,Texas,2,0,0,0.0,henry,112.0,Capital City Trucks | Flying Piston Motorcycles,2 active dealers in area. Use as social proof in opener.
+4,Lincoln,Nebraska,2,0,0,0.0,dave,162.0,"B & D Auto Sales, Inc | Elway Powersports of Lincoln",2 active dealers in area. Use as social proof in opener.
+4,Coquitlam,British Columbia,2,0,0,0.0,mary,72.0,Journey Volkswagen | Voltz Auto,2 active dealers in area. Use as social proof in opener.
+4,Fort Walton Beach,Florida,2,0,0,0.0,alexa,249.0,USED CARS FLORIDA LLC | beach city motors,2 active dealers in area. Use as social proof in opener.
+4,Cotati,California,2,0,0,0.0,marcy,99.0,Sonoma RV | North Bay Motors,2 active dealers in area. Use as social proof in opener.
+4,Muskegon,Michigan,2,0,0,0.0,marcy,212.0,Northwind Auto Sales | Priority Auto Sales,2 active dealers in area. Use as social proof in opener.
+4,Magnolia,Texas,2,0,0,0.0,lauren,157.0,Texas 504 Autosales | Big Country Motorsports,2 active dealers in area. Use as social proof in opener.
+4,Glendora,California,2,0,0,0.0,tom,99.0,Select Auto Wholesales Inc | Speedway Motors,2 active dealers in area. Use as social proof in opener.
+4,Highland Park,Illinois,2,0,0,0.0,vic,212.0,HIGHLAND PARK AND TRUCK AUTO CENTER | Gravity Autos Chicago,2 active dealers in area. Use as social proof in opener.
+4,Stoney Creek,Ontario,2,0,0,0.0,allen,110.0,Xpress Auto Sales | Paradigm Fleet Services,2 active dealers in area. Use as social proof in opener.
+4,Milford,Massachusetts,2,0,0,0.0,heather,157.0,MILFORD AUTO MALL INC | The Car Store,2 active dealers in area. Use as social proof in opener.
+4,Plaistow,New Hampshire,2,0,0,0.0,evelyn,149.0,Car Tech Plus | Leavitt Auto & Truck,2 active dealers in area. Use as social proof in opener.
+4,Newark,California,2,0,0,0.0,jason,450.0,HIGHLINE CARS | cititrading,2 active dealers in area. Use as social proof in opener.
+4,Granite Falls,North Carolina,2,0,0,0.0,marcy,199.0,Mitch Motors | Honda of North Carolina,2 active dealers in area. Use as social proof in opener.
+4,Alexandria,Louisiana,2,0,0,0.0,harvey,125.0,Sals Motors Alex | VIP MOTORS,2 active dealers in area. Use as social proof in opener.
+4,Pasadena,Texas,2,0,0,0.0,harvey,112.0,MARIO USED CARS | Cars On Demand,2 active dealers in area. Use as social proof in opener.
+4,San Mateo,California,2,0,0,0.0,hannah,97.0,Chase Auto Wholesale inc | Continental Car Sales,2 active dealers in area. Use as social proof in opener.
+4,Springfield,New Jersey,2,0,0,0.0,hazel,299.0,jerry morese auto sales llc | Used Car Outlet at Springfield Acura,2 active dealers in area. Use as social proof in opener.
+4,Bremerton,Washington,2,0,0,0.0,jason,99.0,"Dave Barcelon's Truck Tow, LTD | Southbound Motorsports",2 active dealers in area. Use as social proof in opener.
+4,Milford,Connecticut,2,0,0,0.0,kelly,162.0,Chips Auto Sale | dealertown auto wholesalers,2 active dealers in area. Use as social proof in opener.
+4,Diablo,California,2,0,0,0.0,kelly,120.0,925golfcarts.com | EASTBAYTRAILER.COM,2 active dealers in area. Use as social proof in opener.
+4,Beatrice,Nebraska,2,0,0,0.0,edward,199.0,Beatrice Auto Sales | Northeast Auto,2 active dealers in area. Use as social proof in opener.

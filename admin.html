@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin — Activity Log</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --teal:   #00C8B4;
+    --teal-d: #00a899;
+    --black:  #1a1a1a;
+    --white:  #ffffff;
+    --gray:   #f5f5f5;
+    --mid:    #888888;
+    --border: #e5e5e5;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family:'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--gray);
+    min-height:100vh;
+    display:flex; flex-direction:column;
+    color: var(--black);
+  }
+  .page { display:flex; flex-direction:column; width:100%; padding:60px 20px; align-items:center; }
+  .card {
+    background: var(--white); border-radius:4px;
+    padding: 32px 28px; width:100%; max-width:920px;
+    box-shadow: 0 4px 32px rgba(0,0,0,.08);
+    border-top: 4px solid var(--teal);
+  }
+  h1 { font-size:26px; font-weight:900; margin-bottom:8px; }
+  p  { font-size:13px; color:var(--mid); margin-bottom:24px; line-height:1.6; }
+  .btn { display:inline-flex; align-items:center; gap:10px; padding:10px 14px; border-radius:3px; border:1px solid var(--border); background:var(--white); color:var(--black); font-weight:800; font-size:12px; cursor:pointer; text-decoration:none; transition:.2s; }
+  .btn:hover { border-color:var(--teal); color:var(--teal); }
+  .btn-primary { background:var(--teal); color:var(--white); border:none; }
+  .btn-primary:hover { background:var(--teal-d); }
+  .tools { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:18px; }
+  .stats { margin-bottom:18px; font-size:13px; color:var(--mid); }
+  .table-wrap { width:100%; overflow-x:auto; }
+  table { width:100%; border-collapse:collapse; font-size:13px; }
+  th, td { padding:10px 12px; border-bottom:1px solid var(--border); text-align:left; }
+  th { background:rgba(0,200,180,.08); font-weight:700; color:var(--black); }
+  tbody tr:hover { background:rgba(0,200,180,.06); }
+  .empty { padding:40px 0; text-align:center; color:var(--mid); }
+  .small { font-size:12px; color:var(--mid); }
+  .link { color:var(--teal); text-decoration:none; font-weight:800; }
+  .link:hover { text-decoration:underline; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="card">
+    <h1>Activity Log</h1>
+    <p>Each time someone generates an email, the details are stored in this log (in localStorage). Use the buttons below to download or clear the log.</p>
+
+    <div class="tools">
+      <a href="emailfinancing.html" class="btn">← Back to generator</a>
+      <button id="downloadBtn" class="btn btn-primary">Download CSV</button>
+      <button id="clearBtn" class="btn">Clear log</button>
+    </div>
+
+    <div class="stats" id="stats"></div>
+
+    <div class="table-wrap" id="tableWrap"></div>
+  </div>
+</div>
+
+<script>
+// ~~~ Security note ~~~
+// This is a basic client-side gate to prevent casual access. The password is stored in plain text here.
+// For stronger protection, serve this page from a backend with proper authentication.
+const ADMIN_PASSWORD = 'change-this-password';
+
+function requireAdminAccess() {
+  const maxAttempts = 3;
+  for (let i = 0; i < maxAttempts; i++) {
+    const attempt = prompt('Enter admin password:');
+    if (attempt === null) return false; // user canceled
+    if (attempt === ADMIN_PASSWORD) return true;
+    alert(`Incorrect password (${maxAttempts - i - 1} attempts remaining)`);
+  }
+  return false;
+}
+
+function lockDown() {
+  document.querySelector('.tools').style.display = 'none';
+  document.getElementById('stats').textContent = 'Access denied. Reload the page to try again.';
+  document.getElementById('tableWrap').innerHTML = '<div class="empty">Correct password required to view log.</div>';
+}
+
+function getSearchLog() {
+  try {
+    return JSON.parse(localStorage.getItem('searchLog') || '[]');
+  } catch (e) {
+    return [];
+  }
+}
+
+function setSearchLog(log) {
+  localStorage.setItem('searchLog', JSON.stringify(log));
+}
+
+function formatDate(iso) {
+  try {
+    return new Date(iso).toLocaleString();
+  } catch (e) {
+    return iso;
+  }
+}
+
+function renderTable() {
+  const log = getSearchLog();
+  const tableWrap = document.getElementById('tableWrap');
+  const stats = document.getElementById('stats');
+
+  if (!log.length) {
+    stats.textContent = 'No entries yet.';
+    tableWrap.innerHTML = '<div class="empty">No activity logged yet.</div>';
+    return;
+  }
+
+  stats.textContent = `Total entries: ${log.length}`;
+
+  const rows = log.map(entry => {
+    const date = formatDate(entry.timestamp);
+    const emailType = entry.emailType || '';
+    const repName = entry.repName || '';
+    const repPhone = entry.repPhone || '';
+    const dealerName = entry.dealerName || '';
+    const dealership = entry.dealership || '';
+    const state = entry.state || '';
+    const city = entry.city || '';
+    return `
+      <tr>
+        <td>${date}</td>
+        <td>${emailType}</td>
+        <td>${repName}</td>
+        <td>${repPhone}</td>
+        <td>${dealerName}</td>
+        <td>${dealership}</td>
+        <td>${city}</td>
+        <td>${state}</td>
+      </tr>`;
+  }).join('');
+
+  const table = `
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Type</th>
+          <th>Rep</th>
+          <th>Phone</th>
+          <th>Dealer</th>
+          <th>Dealership</th>
+          <th>City</th>
+          <th>State</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rows}
+      </tbody>
+    </table>`;
+
+  tableWrap.innerHTML = table;
+}
+
+function downloadCSV() {
+  const log = getSearchLog();
+  if (!log.length) return;
+
+  const headers = ['timestamp', 'emailType', 'repName', 'repPhone', 'dealerName', 'dealership', 'city', 'state'];
+  const csvRows = [headers.join(',')];
+
+  for (const entry of log) {
+    const row = headers.map(h => {
+      const raw = entry[h] || '';
+      const escaped = String(raw).replace(/"/g, '""');
+      return `"${escaped}"`;
+    });
+    csvRows.push(row.join(','));
+  }
+
+  const blob = new Blob([csvRows.join('\n')], { type: 'text/csv;charset=utf-8;' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'activity-log.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function clearLog() {
+  if (!confirm('Clear the activity log? This cannot be undone.')) return;
+  setSearchLog([]);
+  renderTable();
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+  if (!requireAdminAccess()) {
+    lockDown();
+    return;
+  }
+
+  document.getElementById('downloadBtn').addEventListener('click', downloadCSV);
+  document.getElementById('clearBtn').addEventListener('click', clearLog);
+  renderTable();
+});
+</script>
+</body>
+</html>
